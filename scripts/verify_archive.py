@@ -15,9 +15,12 @@ for item in files:
 links = 0
 docs = [root / 'README.md']
 for folder in ['docs', 'interview', 'review-plan', 'courses']:
-    docs.extend(p for p in (root / folder).rglob('*.md') if 'source' not in p.relative_to(root).parts)
+    docs.extend(p for p in (root / folder).rglob('*.md') if 'source' not in p.relative_to(root).parts or 'extracted' in p.relative_to(root).parts)
 for path in docs:
     text = path.read_text(encoding='utf-8')
+    # Extracted PDF text can contain code/Markdown examples that are not links
+    # in the surrounding document. Ignore fenced content when checking links.
+    text = re.sub(r'^(`{3,}|~{3,})[^\n]*\n.*?^\1\s*$', '', text, flags=re.M | re.S)
     if 'source:F' in text:
         errors.append('Unresolved source reference: ' + str(path))
     for raw in re.findall(r'\]\(([^\n]+?)\)', text):
