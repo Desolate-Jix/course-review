@@ -15,9 +15,9 @@
 
 **推荐作为八股主干：**Bloom／reservoir → MinHash／LSH → Sketch 比较 → 协同过滤／矩阵分解／冷启动／评估。PageRank 次之；谱聚类、影响力最大化和张量分解按目标岗位深入。
 
-**代表依据：**[F240：课程介绍](source/753/W1%2B-%2BIntro%2B%2526%2BAdmin.pdf)；[F235：Tutorial 1](source/753/2025_S2_CS752_Tut1_Q.pdf)文件名虽写 CS752，正文明确为 COMPSCI 753；[F255：LSH I](source/753/W5.1%2B-%2BLSH%2BAllPairs%2BI.pdf)；[F258：LSH III](source/753/W6%2B-%2BrNNS.pdf)；[F262：CountMinSketch](source/753/W8.1_Stream%2BCountMin%2BSketch.pdf)；[F263：Count Sketch](source/753/W8.2_Stream%2BCount%2BSketch.pdf)；[F264：推荐基础](source/753/W9.1%2B-%2BBasics%2Bof%2BRecommender%2BSystems.pdf)；[F244：潜因子](source/753/W10.1%2B-%2BLatent%2BFactor%2BModel%20%282%29.pdf)；[F246：进阶推荐](source/753/W10.2%2B-%2BAdvanced%2Btopics%2Bof%2BRS.pdf)。[F267：10 月 29 日](source/753/%E7%AC%94%E8%AE%B0%202025%E5%B9%B410%E6%9C%8829%E6%97%A5.pdf)和[F268：10 月 30 日](source/753/%E7%AC%94%E8%AE%B0%202025%E5%B9%B410%E6%9C%8830%E6%97%A5.pdf)是算法复习笔记，而不是可忽略的日期文件。
+**代表依据：**[F240：课程介绍](source/753/W1%2B-%2BIntro%2B%2526%2BAdmin.pdf)；[F235：Tutorial 1](source/753/2025_S2_CS752_Tut1_Q.pdf)文件名虽写 CS752，正文明确为 COMPSCI 753；[F255：LSH I](source/753/W5.1%2B-%2BLSH%2BAllPairs%2BI.pdf)；[F258：LSH III](source/753/W6%2B-%2BrNNS.pdf)；[F262：CountMinSketch](source/753/W8.1_Stream%2BCountMin%2BSketch.pdf)；[F263：Count Sketch](source/753/W8.2_Stream%2BCount%2BSketch.pdf)；[F264：推荐基础](source/753/W9.1%2B-%2BBasics%2Bof%2BRecommender%2BSystems.pdf)；[F244：潜因子](source/753/W10.1%2B-%2BLatent%2BFactor%2BModel%20%282%29.pdf)；[F246：进阶推荐](source/753/W10.2%2B-%2BAdvanced%2Btopics%2Bof%2BRS.pdf)。[F267：10 月 29 日](notes/original/753/%E7%AC%94%E8%AE%B0%202025%E5%B9%B410%E6%9C%8829%E6%97%A5.pdf)和[F268：10 月 30 日](notes/original/753/%E7%AC%94%E8%AE%B0%202025%E5%B9%B410%E6%9C%8830%E6%97%A5.pdf)是算法复习笔记，而不是可忽略的日期文件。
 
 
 ## 资料入口
 
-[课程笔记入口](notes/README.md) · [原始文件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)
+[课程笔记入口](notes/README.md) · [课件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)

@@ -12,9 +12,9 @@
 
 **优先级高，但主要不是背定义。**先形成 2–3 个真实项目故事：用户问题、本人负责部分、关键技术选择、遇到的失败、验证方法、结果。框架、数据库、LLM 型号、部署方式、性能数字与上线情况在当前材料中不足以完整确认，后续需代码／报告佐证。
 
-**代表依据：**[F331：presentation](source/presentation.pdf)，第 1–5 页明确描述前端及 internship；[F336：12 月 5 日 IdeaSense AI 计划](source/%E7%AC%94%E8%AE%B0%202025%E5%B9%B412%E6%9C%885%E6%97%A5.pdf)；[F334：库存对账讲稿](source/%E6%96%B0%E5%BB%BA%20Microsoft%20Word%20%E6%96%87%E6%A1%A3.pdf)仅列作中等可信的项目准备素材，不与 IdeaSense AI 强行合并；[F269：11 月 17 日候选项目名](source/753/%E7%AC%94%E8%AE%B0%202025%E5%B9%B411%E6%9C%8817%E6%97%A5.pdf)位于 753，主题更像实习前期选题。
+**代表依据：**[F331：presentation](notes/original/presentation.pdf)，第 1–5 页明确描述前端及 internship；[F336：12 月 5 日 IdeaSense AI 计划](notes/original/%E7%AC%94%E8%AE%B0%202025%E5%B9%B412%E6%9C%885%E6%97%A5.pdf)；[F334：库存对账讲稿](notes/original/%E6%96%B0%E5%BB%BA%20Microsoft%20Word%20%E6%96%87%E6%A1%A3.pdf)仅列作中等可信的项目准备素材，不与 IdeaSense AI 强行合并；[F269：11 月 17 日候选项目名](notes/original/753/%E7%AC%94%E8%AE%B0%202025%E5%B9%B411%E6%9C%8817%E6%97%A5.pdf)位于 753，主题更像实习前期选题。
 
 
 ## 资料入口
 
-[课程笔记入口](notes/README.md) · [原始文件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)
+[课程笔记入口](notes/README.md) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)

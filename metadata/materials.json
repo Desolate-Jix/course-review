@@ -6,241 +6,261 @@
       "id": "F001",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/700.note",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/700.note",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/700.note",
       "bytes": 7036003,
       "sha256": "5c77a64fcd03db1406750293c9aaa4847b5681347a965981f66ff61e7951ec63",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F002",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/700.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/700.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/700.pdf",
       "bytes": 6452734,
       "sha256": "99fafe77234cac6d1c6d4120951cbb6ba8c6291ef18f038dfa61009ad1342c08",
       "format": ".pdf",
       "pdf_pages": 18,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F003",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/midblock review 700.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/midblock review 700.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/midblock review 700.pdf",
       "bytes": 849438,
       "sha256": "487df22677df6cf80d4cfb89b356712a9a9952f32b1f43e84412bd4c29fdc6f8",
       "format": ".pdf",
       "pdf_pages": 3,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F004",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/part 1 transcript.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/part 1 transcript.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/part 1 transcript.pdf",
       "bytes": 64597,
       "sha256": "b651bce977461e4e29eee25cf26cb3c081be916365e85602f8d45eb31bf681ca",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F005",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/SCRIPT.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/SCRIPT.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/SCRIPT.pdf",
       "bytes": 61773,
       "sha256": "460abc9a314acdb962a808e0ed7bc17d638e38758b05847579e65e7162ce3285",
       "format": ".pdf",
       "pdf_pages": 2,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F006",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/演讲稿改(1).pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/演讲稿改(1).pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/演讲稿改(1).pdf",
       "bytes": 68852,
       "sha256": "024bcb722e5c954f6206af57d2f51811aafb375be0219159ff9956317c4e180a",
       "format": ".pdf",
       "pdf_pages": 2,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F007",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/演讲稿改.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/演讲稿改.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/演讲稿改.pdf",
       "bytes": 62122,
       "sha256": "3ba5c15f55859fba000438567d9aa197a26f5ce0a7754dee7bc9506aeba187cc",
       "format": ".pdf",
       "pdf_pages": 2,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F008",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年3月19日.note",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年3月19日.note",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年3月19日.note",
       "bytes": 14041096,
       "sha256": "858bd23042692c707875a149ec0cbadd47bd76516877fbdd8ee8a138683c53e4",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F009",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年3月19日.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年3月19日.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年3月19日.pdf",
       "bytes": 12998347,
       "sha256": "20b266302ce3185f54721122017efb53a9646daf2f45e1a3d5af235a7d34748c",
       "format": ".pdf",
       "pdf_pages": 12,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F010",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年3月26日.note",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年3月26日.note",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年3月26日.note",
       "bytes": 3014728,
       "sha256": "31374be9ebb67c98ff56cd00ac85a3931e0fcfbcd52f13c75698754acb4599cc",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F011",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年3月26日.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年3月26日.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年3月26日.pdf",
       "bytes": 2983350,
       "sha256": "2f423a9035e5f65f55740381eab14e8c1daf2c9de7d98a08276315889ab62c37",
       "format": ".pdf",
       "pdf_pages": 13,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F012",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年4月2日.note",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年4月2日.note",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年4月2日.note",
       "bytes": 22631067,
       "sha256": "2e1a0db1172b4e0279fd76f63e4ce101000f7255cb8a39e446f07d3206bc6159",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F013",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年4月2日.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年4月2日.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年4月2日.pdf",
       "bytes": 21254204,
       "sha256": "c05a102a0f7a67515521d2b585c3b86050b73e5dcb5c37de8397130e65651bdd",
       "format": ".pdf",
       "pdf_pages": 55,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F014",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年4月9日.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年4月9日.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年4月9日.pdf",
       "bytes": 21294867,
       "sha256": "f188be9f17cda8a807fa5e6994c521b7bfb27857dc7985a0bb886f6e2a69a783",
       "format": ".pdf",
       "pdf_pages": 41,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F015",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年5月14日.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年5月14日.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年5月14日.pdf",
       "bytes": 247945,
       "sha256": "7ad5d7eff7390ea59db192c9befa80a23e8f9efc4b36e27b5884a1359c6f4974",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F016",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年5月7日 (2).pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年5月7日 (2).pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年5月7日 (2).pdf",
       "bytes": 2455609,
       "sha256": "3b64f3f3670d967f792aa8feaf70feb4655760f9a31334f56502aec69f11109e",
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F017",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/笔记 2025年5月7日.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/笔记 2025年5月7日.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/笔记 2025年5月7日.pdf",
       "bytes": 17763,
       "sha256": "85b9786f475d36187ddd5380ce5f46e3784876f2e703238e5d75be0fb407278c",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F018",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/第四周论文总结.note",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/第四周论文总结.note",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/第四周论文总结.note",
       "bytes": 731974,
       "sha256": "a0fdba70e155754307b7a5835c63076f1cd7b6db7dd5591bb73a38ebe459004f",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F019",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/第四周论文总结.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/第四周论文总结.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/第四周论文总结.pdf",
       "bytes": 1165198,
       "sha256": "18d18724f5c8bb739da9da272150bda5cf5c81cc6627414e597b7082f62da092",
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F020",
       "course": "INFOSYS700",
       "original_relative_path": "700/700 1/讲稿.pdf",
-      "repository_path": "courses/INFOSYS700/source/700/700 1/讲稿.pdf",
+      "repository_path": "courses/INFOSYS700/notes/original/700/700 1/讲稿.pdf",
       "bytes": 123087,
       "sha256": "b82da1bff5189fa1e53694486db2375e65cdc158b1b8c035a9fd2d79db1ba3fc",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F021",
@@ -252,7 +272,8 @@
       "format": ".pdf",
       "pdf_pages": 143,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F022",
@@ -264,7 +285,8 @@
       "format": ".pdf",
       "pdf_pages": 71,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F023",
@@ -276,7 +298,8 @@
       "format": ".pdf",
       "pdf_pages": 30,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F024",
@@ -288,7 +311,8 @@
       "format": ".pdf",
       "pdf_pages": 30,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F025",
@@ -300,7 +324,8 @@
       "format": ".pdf",
       "pdf_pages": 24,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F026",
@@ -312,7 +337,8 @@
       "format": ".pdf",
       "pdf_pages": 48,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F027",
@@ -324,7 +350,8 @@
       "format": ".pdf",
       "pdf_pages": 36,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F028",
@@ -336,7 +363,8 @@
       "format": ".pdf",
       "pdf_pages": 99,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F029",
@@ -348,7 +376,8 @@
       "format": ".pdf",
       "pdf_pages": 60,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F030",
@@ -360,235 +389,255 @@
       "format": ".pdf",
       "pdf_pages": 26,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F031",
       "course": "INFOSYS704",
       "original_relative_path": "704/笔记 2025年8月12日.pdf",
-      "repository_path": "courses/INFOSYS704/source/704/笔记 2025年8月12日.pdf",
+      "repository_path": "courses/INFOSYS704/notes/original/704/笔记 2025年8月12日.pdf",
       "bytes": 120490,
       "sha256": "29be88b408b34e1541754dd865ee835f89821464804470d217ba779b1664da5c",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F032",
       "course": "INFOSYS704",
       "original_relative_path": "704/笔记 2025年8月26日 (2).pdf",
-      "repository_path": "courses/INFOSYS704/source/704/笔记 2025年8月26日 (2).pdf",
+      "repository_path": "courses/INFOSYS704/notes/original/704/笔记 2025年8月26日 (2).pdf",
       "bytes": 309262,
       "sha256": "e8e640d7e535127524f2e3f8a89d5e235cb1d421c959523da27dbaaf406d0c5e",
       "format": ".pdf",
       "pdf_pages": 2,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F033",
       "course": "INFOSYS704",
       "original_relative_path": "704/笔记 2025年8月26日.pdf",
-      "repository_path": "courses/INFOSYS704/source/704/笔记 2025年8月26日.pdf",
+      "repository_path": "courses/INFOSYS704/notes/original/704/笔记 2025年8月26日.pdf",
       "bytes": 366703,
       "sha256": "3608f461e5ef6263346bcef77134c706f9276c4bdfe8295f4bb924ddee4e3caf",
       "format": ".pdf",
       "pdf_pages": 2,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F034",
       "course": "INFOSYS704",
       "original_relative_path": "704/笔记 2025年8月5日.pdf",
-      "repository_path": "courses/INFOSYS704/source/704/笔记 2025年8月5日.pdf",
+      "repository_path": "courses/INFOSYS704/notes/original/704/笔记 2025年8月5日.pdf",
       "bytes": 87804,
       "sha256": "0037551c61af46af802c986dfaebdc4681b7097a4ecbfda9b3de3c23617f32b0",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F035",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/1.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/1.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/1.pdf",
       "bytes": 493254,
       "sha256": "c058601fb24f144116cc396d49f18881bd36f7633158bac6754a7c76e24d096f",
       "format": ".pdf",
       "pdf_pages": 20,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F036",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/3.19.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/3.19.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/3.19.note",
       "bytes": 732716,
       "sha256": "86a4901fdfa94058a238fb6f203ef54fbf46b800dbc9994b4f04394a28112a78",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F037",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/3.19.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/3.19.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/3.19.pdf",
       "bytes": 1088685,
       "sha256": "a389bcd46dec379e0bbc6de0fb7543078c056c8343d9bf9ccf320f1eb51a8046",
       "format": ".pdf",
       "pdf_pages": 27,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F038",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/6.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/6.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/6.note",
       "bytes": 244297,
       "sha256": "7e4db4ce5d30f685072c26680ca568a86a2c07ca15dc699c0051fe305aa8d8e2",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F039",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/6.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/6.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/6.pdf",
       "bytes": 151486,
       "sha256": "455f317a019798797e00853f247d7e8daa7e4872a7745e8928f59009fa90cd19",
       "format": ".pdf",
       "pdf_pages": 27,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F040",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711 2.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/711 2.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711 2.note",
       "bytes": 2750661,
       "sha256": "e293082892b85c8a34a0920875da8b4438945c175c0e404995ec8dee5770b109",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F041",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711 2.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/711 2.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711 2.pdf",
       "bytes": 2403329,
       "sha256": "491df4077b64200682d9cd98eee9515ca6c55cf77a16c1aae7f9ec8695c74116",
       "format": ".pdf",
       "pdf_pages": 11,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F042",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711 3.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/711 3.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711 3.note",
       "bytes": 2821829,
       "sha256": "7ded117a12b24d5013f860154c36aa12bc28f645e51cef3e7c3305f7084196ca",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F043",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711 3.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/711 3.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711 3.pdf",
       "bytes": 3374192,
       "sha256": "7819eea4f525b17aa1fea835bc85b6c3f32c53b9503ce10168823c34f4ad9e7b",
       "format": ".pdf",
       "pdf_pages": 92,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F044",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711 （1）.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/711 （1）.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711 （1）.note",
       "bytes": 4306230,
       "sha256": "3afa430024c6440a88f88ea9aa0921078ebd611700705c8991fd7de6b91aeb02",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F045",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711 （1）.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/711 （1）.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711 （1）.pdf",
       "bytes": 4105573,
       "sha256": "9c5fb544a4a1574bb1f3a65b82144bbd831a2cd2bb01bec9126d757d7c92c1a2",
       "format": ".pdf",
       "pdf_pages": 15,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F046",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711-4.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/711-4.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711-4.note",
       "bytes": 2056545,
       "sha256": "60664b3929c42092e967a15940cd797752e89a90f83ac7e8c47764be9da1398a",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F047",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711-4.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/711-4.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711-4.pdf",
       "bytes": 2401925,
       "sha256": "4b84697a0ce39744fd092c77277fe599aaa9f92ad4b4a1b591298da5affa1cd0",
       "format": ".pdf",
       "pdf_pages": 86,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F048",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711-5.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/711-5.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711-5.note",
       "bytes": 2460773,
       "sha256": "580aa4e887d9053ee37f8d566fcd12fc4e3784c4595b54e49631307202550871",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F049",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/711-5.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/711-5.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/711-5.pdf",
       "bytes": 3141515,
       "sha256": "4d945eeb4442f76d035a1329681cc1c9a5c5d71f9f68f754fce6da84f4a4a2e4",
       "format": ".pdf",
       "pdf_pages": 26,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F050",
@@ -600,7 +649,8 @@
       "format": ".pdf",
       "pdf_pages": 31,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "原在711，正文与722反馈一致"
+      "attribution_note": "原在711，正文与722反馈一致",
+      "category": "course-material"
     },
     {
       "id": "F051",
@@ -612,7 +662,8 @@
       "format": ".pdf",
       "pdf_pages": 29,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F052",
@@ -624,7 +675,8 @@
       "format": ".pdf",
       "pdf_pages": 21,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "原在711，数字钱包展示与700演讲稿对应"
+      "attribution_note": "原在711，数字钱包展示与700演讲稿对应",
+      "category": "course-material"
     },
     {
       "id": "F053",
@@ -636,7 +688,8 @@
       "format": ".pdf",
       "pdf_pages": 15,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F054",
@@ -648,7 +701,8 @@
       "format": ".pdf",
       "pdf_pages": 74,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F055",
@@ -660,7 +714,8 @@
       "format": ".pdf",
       "pdf_pages": 33,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F056",
@@ -672,7 +727,8 @@
       "format": ".pdf",
       "pdf_pages": 46,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F057",
@@ -684,19 +740,21 @@
       "format": ".pdf",
       "pdf_pages": 12,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F058",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/PRESENTATION.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/PRESENTATION.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/PRESENTATION.pdf",
       "bytes": 37284,
       "sha256": "02a448b9db26b792f42a55b47c0ce38fa71e46f2c62e2c9f5ddf20025a2b56bf",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F059",
@@ -708,7 +766,8 @@
       "format": ".pdf",
       "pdf_pages": 47,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F060",
@@ -720,7 +779,8 @@
       "format": ".pdf",
       "pdf_pages": 60,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F061",
@@ -732,7 +792,8 @@
       "format": ".pdf",
       "pdf_pages": 26,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F062",
@@ -744,151 +805,164 @@
       "format": ".pdf",
       "pdf_pages": 43,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F063",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S5+deadlock.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/S5+deadlock.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S5+deadlock.note",
       "bytes": 899601,
       "sha256": "e21688150c4f75a199c870d33fc05ade5a8482f8a8b04c3be12e2b4f12ef5151",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F064",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S5+deadlock.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/S5+deadlock.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S5+deadlock.pdf",
       "bytes": 1203438,
       "sha256": "e62dd97c7dd2413ccf27952392977b8fb789fced737fee0bdb4cb27eb94b6310",
       "format": ".pdf",
       "pdf_pages": 33,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F065",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S6+garbage-collection.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/S6+garbage-collection.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S6+garbage-collection.note",
       "bytes": 554953,
       "sha256": "3cf0b7659a3c94b135f917535645babe8faae2e7d00fcc8f4c4195432ffc3798",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F066",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S6+garbage-collection.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/S6+garbage-collection.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S6+garbage-collection.pdf",
       "bytes": 654442,
       "sha256": "28f9cd4e8250a56574807fb65d1a5c6b16491b6b1b0b0e3cab8889b69ac022a9",
       "format": ".pdf",
       "pdf_pages": 36,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F067",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S7+snapshot (2).note",
-      "repository_path": "courses/COMPSCI711/source/711/1/S7+snapshot (2).note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S7+snapshot (2).note",
       "bytes": 547276,
       "sha256": "70a43360a7eb58f270aa4469c9bbb559324afa4bb27c88458feef801e6e30a26",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F068",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S7+snapshot (2).pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/S7+snapshot (2).pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S7+snapshot (2).pdf",
       "bytes": 632639,
       "sha256": "c567d56f20ac1d1e0e391c2843fd1e60038fe184681ffd8a35a26561f7319718",
       "format": ".pdf",
       "pdf_pages": 26,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F069",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S7+snapshot.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/S7+snapshot.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S7+snapshot.note",
       "bytes": 281121,
       "sha256": "808365e0011e88902d5b95f3f21a1de64fb0850dfc21fd386470ce36baa90924",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F070",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S7+snapshot.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/S7+snapshot.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S7+snapshot.pdf",
       "bytes": 129629,
       "sha256": "69a28d7fcc4a3394da1a56846b8e256e980f29531b8cf84e895b1ada7a94b4cc",
       "format": ".pdf",
       "pdf_pages": 31,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F071",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S8+paxos.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/S8+paxos.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S8+paxos.note",
       "bytes": 1389768,
       "sha256": "4af51600d81c664951f1d69d801edf2c957aa50886151bcebb46d7d377a01b76",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F072",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S8+paxos.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/S8+paxos.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S8+paxos.pdf",
       "bytes": 1736316,
       "sha256": "77b12c0c4870d987b54df83782f54693f30ec7dea39870966b6ff3e7aa8fa00e",
       "format": ".pdf",
       "pdf_pages": 49,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F073",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S9+noSQL.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/S9+noSQL.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S9+noSQL.note",
       "bytes": 527742,
       "sha256": "6859d73875ce2f3883e15dc401317cdc1a2550b70a239d66a42891721cae3636",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F074",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/S9+noSQL.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/S9+noSQL.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/S9+noSQL.pdf",
       "bytes": 738451,
       "sha256": "e2043b2e383e87ae5d2a424b2e0683b30dc389bbe8dd338c7cb2690136f644f9",
       "format": ".pdf",
       "pdf_pages": 28,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F075",
@@ -900,7 +974,8 @@
       "format": ".pdf",
       "pdf_pages": 21,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F076",
@@ -912,55 +987,60 @@
       "format": ".pdf",
       "pdf_pages": 32,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F077",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/期末复习.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/期末复习.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/期末复习.pdf",
       "bytes": 26690862,
       "sha256": "1e7824b90ec6fee7375b345e0f09f33487f9c1cd6454d96684858813f2013460",
       "format": ".pdf",
       "pdf_pages": 56,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F078",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/笔记 2025年3月17日.note",
-      "repository_path": "courses/COMPSCI711/source/711/1/笔记 2025年3月17日.note",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/笔记 2025年3月17日.note",
       "bytes": 20786,
       "sha256": "205da2ae10efd0a06b65aefb5e9d981aed25cb647ee6dc1498bd400f586a54ae",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包内嵌PDF/图片与plist检查",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F079",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/笔记 2025年6月22日.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/笔记 2025年6月22日.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/笔记 2025年6月22日.pdf",
       "bytes": 280829,
       "sha256": "2b356384e57618b3c377aa7dc0a61794b6ab1e92a2d36b8d16c4b194b24d5882",
       "format": ".pdf",
       "pdf_pages": 2,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F080",
       "course": "COMPSCI711",
       "original_relative_path": "711/1/笔记 2025年6月4日.pdf",
-      "repository_path": "courses/COMPSCI711/source/711/1/笔记 2025年6月4日.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/711/1/笔记 2025年6月4日.pdf",
       "bytes": 3359232,
       "sha256": "e9f582ca68911b730218fa2a01b1a09e6f2f5695bf13b76e6f216138300a966b",
       "format": ".pdf",
       "pdf_pages": 12,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F083",
@@ -972,7 +1052,8 @@
       "format": ".pdf",
       "pdf_pages": 106,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F084",
@@ -984,7 +1065,8 @@
       "format": ".pdf",
       "pdf_pages": 31,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F085",
@@ -996,7 +1078,8 @@
       "format": ".pdf",
       "pdf_pages": 3,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F086",
@@ -1008,7 +1091,8 @@
       "format": ".pdf",
       "pdf_pages": 22,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F087",
@@ -1020,7 +1104,8 @@
       "format": ".pdf",
       "pdf_pages": 142,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F088",
@@ -1032,7 +1117,8 @@
       "format": ".pdf",
       "pdf_pages": 11,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F089",
@@ -1044,7 +1130,8 @@
       "format": ".pdf",
       "pdf_pages": 63,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F090",
@@ -1056,7 +1143,8 @@
       "format": ".pdf",
       "pdf_pages": 22,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F091",
@@ -1068,7 +1156,8 @@
       "format": ".pdf",
       "pdf_pages": 91,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F092",
@@ -1080,7 +1169,8 @@
       "format": ".pdf",
       "pdf_pages": 89,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F093",
@@ -1092,7 +1182,8 @@
       "format": ".pdf",
       "pdf_pages": 19,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F096",
@@ -1104,7 +1195,8 @@
       "format": ".pdf",
       "pdf_pages": 42,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F097",
@@ -1116,7 +1208,8 @@
       "format": ".pdf",
       "pdf_pages": 107,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F098",
@@ -1128,7 +1221,8 @@
       "format": ".pdf",
       "pdf_pages": 87,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F099",
@@ -1140,7 +1234,8 @@
       "format": ".pdf",
       "pdf_pages": 39,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F100",
@@ -1152,7 +1247,8 @@
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F101",
@@ -1164,7 +1260,8 @@
       "format": ".pdf",
       "pdf_pages": 14,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F102",
@@ -1176,7 +1273,8 @@
       "format": ".pdf",
       "pdf_pages": 15,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F103",
@@ -1188,7 +1286,8 @@
       "format": ".pdf",
       "pdf_pages": 46,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F104",
@@ -1200,7 +1299,8 @@
       "format": ".pdf",
       "pdf_pages": 20,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F105",
@@ -1212,7 +1312,8 @@
       "format": ".pdf",
       "pdf_pages": 106,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F106",
@@ -1224,7 +1325,8 @@
       "format": ".pdf",
       "pdf_pages": 11,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F107",
@@ -1236,7 +1338,8 @@
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F108",
@@ -1248,7 +1351,8 @@
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F109",
@@ -1260,7 +1364,8 @@
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F110",
@@ -1272,7 +1377,8 @@
       "format": ".pdf",
       "pdf_pages": 22,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F111",
@@ -1284,7 +1390,8 @@
       "format": ".pdf",
       "pdf_pages": 16,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F112",
@@ -1296,7 +1403,8 @@
       "format": ".pdf",
       "pdf_pages": 16,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F113",
@@ -1308,7 +1416,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F114",
@@ -1320,7 +1429,8 @@
       "format": ".pdf",
       "pdf_pages": 23,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F115",
@@ -1332,7 +1442,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F116",
@@ -1344,7 +1455,8 @@
       "format": ".pdf",
       "pdf_pages": 26,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F117",
@@ -1356,7 +1468,8 @@
       "format": ".pdf",
       "pdf_pages": 13,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F118",
@@ -1368,7 +1481,8 @@
       "format": ".pdf",
       "pdf_pages": 13,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F119",
@@ -1380,7 +1494,8 @@
       "format": ".pdf",
       "pdf_pages": 12,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F120",
@@ -1392,7 +1507,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F121",
@@ -1404,7 +1520,8 @@
       "format": ".pdf",
       "pdf_pages": 15,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F122",
@@ -1416,7 +1533,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F123",
@@ -1428,19 +1546,21 @@
       "format": ".pdf",
       "pdf_pages": 6,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F124",
       "course": "COMPSCI751",
       "original_relative_path": "751/751%25/midblock review 751.pdf",
-      "repository_path": "courses/COMPSCI751/source/751/751%25/midblock review 751.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751/751%25/midblock review 751.pdf",
       "bytes": 2869998,
       "sha256": "d36a3d8c2cc5617f8020540d092e7fb6a84aed32c6e22b69acc24c1a6d69b353",
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F125",
@@ -1452,7 +1572,8 @@
       "format": ".pdf",
       "pdf_pages": 11,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F126",
@@ -1464,115 +1585,125 @@
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F127",
       "course": "COMPSCI751",
       "original_relative_path": "751/751%25/笔记 2025年3月19日 (2).pdf",
-      "repository_path": "courses/COMPSCI751/source/751/751%25/笔记 2025年3月19日 (2).pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751/751%25/笔记 2025年3月19日 (2).pdf",
       "bytes": 11056212,
       "sha256": "409f3c5b8eb57ca7a99d61468a04795844eb7951d4f2d1ef2f5de5b033f9cae0",
       "format": ".pdf",
       "pdf_pages": 42,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F128",
       "course": "COMPSCI751",
       "original_relative_path": "751/751%25/笔记 2025年5月2日.pdf",
-      "repository_path": "courses/COMPSCI751/source/751/751%25/笔记 2025年5月2日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751/751%25/笔记 2025年5月2日.pdf",
       "bytes": 617707,
       "sha256": "a842defad854b610caaad8e5947e3bb34de2c0256b0dedc69c794bc5999fad76",
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F129",
       "course": "COMPSCI751",
       "original_relative_path": "751/751%25/笔记 2025年6月15日.pdf",
-      "repository_path": "courses/COMPSCI751/source/751/751%25/笔记 2025年6月15日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751/751%25/笔记 2025年6月15日.pdf",
       "bytes": 8692191,
       "sha256": "c0c97623fe5f944146f6b2ec3f46f59d6a0e8c8afd17fb1954d498c7ee5dfcd8",
       "format": ".pdf",
       "pdf_pages": 11,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "混有751事务和752 RDF/SPARQL复习"
+      "attribution_note": "混有751事务和752 RDF/SPARQL复习",
+      "category": "original-note"
     },
     {
       "id": "F130",
       "course": "COMPSCI751",
       "original_relative_path": "751/751%25/笔记 2025年6月24日 (2).pdf",
-      "repository_path": "courses/COMPSCI751/source/751/751%25/笔记 2025年6月24日 (2).pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751/751%25/笔记 2025年6月24日 (2).pdf",
       "bytes": 46339,
       "sha256": "943a5156e288d55ac55cc4ded8a1b6d2a3fb63a3a0c5e133005ff6312fc64e98",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F131",
       "course": "COMPSCI751",
       "original_relative_path": "751/751%25/笔记 2025年6月24日.pdf",
-      "repository_path": "courses/COMPSCI751/source/751/751%25/笔记 2025年6月24日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751/751%25/笔记 2025年6月24日.pdf",
       "bytes": 573754,
       "sha256": "902b15ca4e1db2a072aa2f65a5d90b851e753cbd85e7730c2647dd268a9a7545",
       "format": ".pdf",
       "pdf_pages": 4,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F132",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/10_Index_Hashing.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/10_Index_Hashing.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/10_Index_Hashing.note",
       "bytes": 1840011,
       "sha256": "b11dce1e6b49374b4b6d396253d21471df0c6ea0e5c5e522d780e366911d7e15",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F133",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/10_Index_Hashing.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/10_Index_Hashing.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/10_Index_Hashing.pdf",
       "bytes": 2567904,
       "sha256": "877a27e7dfd3a7fdde42741b1e8732c7044a89bea0a314898bbc1334687df061",
       "format": ".pdf",
       "pdf_pages": 42,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F134",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/10_Index_Other_Indexes.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/10_Index_Other_Indexes.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/10_Index_Other_Indexes.note",
       "bytes": 5866326,
       "sha256": "00ae27845be355f74ce0187ffa7accc701e3efa7f3e6fd46122d99456ce1c207",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F135",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/10_Index_Other_Indexes.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/10_Index_Other_Indexes.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/10_Index_Other_Indexes.pdf",
       "bytes": 7722656,
       "sha256": "cbe852adfda56d9ba0944f84bc3a437c8f96e8771235d10d754095d2321ad059",
       "format": ".pdf",
       "pdf_pages": 107,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F136",
@@ -1584,187 +1715,203 @@
       "format": ".pdf",
       "pdf_pages": 87,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F137",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751 -1.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/751 -1.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751 -1.note",
       "bytes": 5298892,
       "sha256": "163cf5fae4ef71d74a916f1493d58f18d4abf98af98daaffcd662cc23044612f",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F138",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751 -1.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/751 -1.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751 -1.pdf",
       "bytes": 7057244,
       "sha256": "025fa31c470555d87430ae6c82d04a7af907b759b33871a587e2f6d50f4e28ba",
       "format": ".pdf",
       "pdf_pages": 39,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F139",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751 tutorial 5.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/751 tutorial 5.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751 tutorial 5.note",
       "bytes": 334699,
       "sha256": "b75eacf12d675160fa2a4f254c463688113a73b33b79435af2e71b490e712f36",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F140",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751 tutorial 5.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/751 tutorial 5.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751 tutorial 5.pdf",
       "bytes": 491045,
       "sha256": "67566452f7fbbb4aa5391f10b0ffdca5d8d0cfc591b0afa68251b4a0e3b095b2",
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F141",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751-2.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/751-2.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751-2.note",
       "bytes": 725717,
       "sha256": "f3526b507ac9f4e88c80b9648b371e1806696bcd4037088fe2abf0e222f3fe90",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F142",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751-2.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/751-2.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751-2.pdf",
       "bytes": 1403628,
       "sha256": "2f1480480f252544b38263fd3af35ca92b4d89106627c878d7056fc12dc7e9a9",
       "format": ".pdf",
       "pdf_pages": 14,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F143",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751-3.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/751-3.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751-3.note",
       "bytes": 5245455,
       "sha256": "d70a51bf6076bca7cacb6e13389ea7c227fd13e782fff5c0e06708747b95035a",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F144",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751-3.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/751-3.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751-3.pdf",
       "bytes": 4676998,
       "sha256": "67be54a2ecf2b8b3ba22ab27788753311ef53c196193535cc85ecd264c788457",
       "format": ".pdf",
       "pdf_pages": 15,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F145",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751-4.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/751-4.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751-4.note",
       "bytes": 15672934,
       "sha256": "fc85998e6f8acbce40a1a54065426ff432b4955ee23cf7e6013133d2dddba43c",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F146",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751-4.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/751-4.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751-4.pdf",
       "bytes": 18080446,
       "sha256": "1d4c93a693d8157522cb1ceb7516816f1f590b33c59774a5e0161d4c2a40467a",
       "format": ".pdf",
       "pdf_pages": 46,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F147",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/751-5.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/751-5.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/751-5.note",
       "bytes": 20830,
       "sha256": "d5c6155ef223736adb17de52cfde1b2cd846d799228d99716d77f1fb125d7fa5",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包内嵌PDF/图片与plist检查",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F148",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/8_BufferManager_Sorting.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/8_BufferManager_Sorting.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/8_BufferManager_Sorting.note",
       "bytes": 1764609,
       "sha256": "b2c1754b60641061cb0ed199dbe75b3c4ea0e45ba2a6ebaf0ef9f04d96719d2f",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F149",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/8_BufferManager_Sorting.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/8_BufferManager_Sorting.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/8_BufferManager_Sorting.pdf",
       "bytes": 2363795,
       "sha256": "f52d11fdc7bdce72976617fad05fc034f82fc7b4ea06500017fdf764ffbefb24",
       "format": ".pdf",
       "pdf_pages": 20,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F150",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/9_Index_Btree.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/9_Index_Btree.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/9_Index_Btree.note",
       "bytes": 3864720,
       "sha256": "78ce715b43dfd93f6c0df62a09ccaadca50ed4b177cddb0a5e843fdcc4325374",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F151",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/9_Index_Btree.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/9_Index_Btree.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/9_Index_Btree.pdf",
       "bytes": 4930427,
       "sha256": "1d92b0b5b9a74ff855881838e37ec64bb4df22c8f665b97547b39b5808e7b322",
       "format": ".pdf",
       "pdf_pages": 106,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F152",
@@ -1776,7 +1923,8 @@
       "format": ".pdf",
       "pdf_pages": 11,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F153",
@@ -1788,7 +1936,8 @@
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F154",
@@ -1800,7 +1949,8 @@
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F155",
@@ -1812,7 +1962,8 @@
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F156",
@@ -1824,7 +1975,8 @@
       "format": ".pdf",
       "pdf_pages": 22,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F157",
@@ -1836,7 +1988,8 @@
       "format": ".pdf",
       "pdf_pages": 16,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F158",
@@ -1848,7 +2001,8 @@
       "format": ".pdf",
       "pdf_pages": 16,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F159",
@@ -1860,7 +2014,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F160",
@@ -1872,7 +2027,8 @@
       "format": ".pdf",
       "pdf_pages": 23,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F161",
@@ -1884,7 +2040,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F162",
@@ -1896,7 +2053,8 @@
       "format": ".pdf",
       "pdf_pages": 26,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F163",
@@ -1908,7 +2066,8 @@
       "format": ".pdf",
       "pdf_pages": 13,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F164",
@@ -1920,7 +2079,8 @@
       "format": ".pdf",
       "pdf_pages": 13,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F165",
@@ -1932,7 +2092,8 @@
       "format": ".pdf",
       "pdf_pages": 12,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F166",
@@ -1944,7 +2105,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F167",
@@ -1956,7 +2118,8 @@
       "format": ".pdf",
       "pdf_pages": 15,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F168",
@@ -1968,7 +2131,8 @@
       "format": ".pdf",
       "pdf_pages": 15,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F169",
@@ -1980,343 +2144,372 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F170",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/Lab_02_Questions 2.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/Lab_02_Questions 2.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/Lab_02_Questions 2.note",
       "bytes": 13715319,
       "sha256": "fe36e349bc8396d844eca53082534d260186f363244f335df6550fa94cd2c480",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F171",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/Lab_02_Questions 2.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/Lab_02_Questions 2.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/Lab_02_Questions 2.pdf",
       "bytes": 13684790,
       "sha256": "2ee2f217beedfd49931cc3a2560338d152332ae0ced744372163ba693b7eef3d",
       "format": ".pdf",
       "pdf_pages": 6,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F172",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/midblock review 751.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/midblock review 751.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/midblock review 751.pdf",
       "bytes": 2870000,
       "sha256": "8beb6e698938f046545949115c0e93c39e55b53385fc037f0dacae2e599cb65e",
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F173",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/week_1.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/week_1.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/week_1.note",
       "bytes": 5027928,
       "sha256": "8f522c0c244fa6ab26509fe022c98dfa7102667b3dd9bea9519bc4b6ca4141ab",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F174",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/week_1.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/week_1.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/week_1.pdf",
       "bytes": 5257799,
       "sha256": "0dbbe06b65bb54270a2e3555272d7fa5c7e8ecb9503f0b9e45b14b3d71f49e88",
       "format": ".pdf",
       "pdf_pages": 11,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F175",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/words.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/words.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/words.note",
       "bytes": 98552,
       "sha256": "4596d5c8539abd6c154b88b498b87b72b4f330f2d70571ba07ee76cd2e3f21c5",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F176",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/words.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/words.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/words.pdf",
       "bytes": 152693,
       "sha256": "0fcfffde4ed972a710be8c9c322701524e15a47a4edf64da83443f3a988638ae",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F177",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年3月11日.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年3月11日.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年3月11日.note",
       "bytes": 1846011,
       "sha256": "5983a8a59e7f8f49277518b01b7b11b75137408d3708d2dcf82951ce76a7d1c4",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包内嵌PDF/图片与plist检查",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F178",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年3月12日 (2).note",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年3月12日 (2).note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年3月12日 (2).note",
       "bytes": 20754,
       "sha256": "1b5ad86fce53ed5c2fef9bb6a02378f1308a74bcd0d95a61c185e4de7c86d84d",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包内嵌PDF/图片与plist检查",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F179",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年3月13日.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年3月13日.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年3月13日.note",
       "bytes": 20786,
       "sha256": "ca2c54e21d8e4429dc366a0f26d46d3cf1d56b745544f89e034558b7f72d7df2",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包内嵌PDF/图片与plist检查",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F180",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年3月19日 (2).note",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年3月19日 (2).note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年3月19日 (2).note",
       "bytes": 10427790,
       "sha256": "b9efda81670c4258d56e4121e6d8e088f2f74395d954140155298bed3e7e8a2f",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F181",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年3月19日 (2).pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年3月19日 (2).pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年3月19日 (2).pdf",
       "bytes": 11056214,
       "sha256": "7369bd3eb60ec3902db34b72379386051d580d88670780310a8593ad76505a97",
       "format": ".pdf",
       "pdf_pages": 42,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F182",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年3月27日.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年3月27日.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年3月27日.note",
       "bytes": 20786,
       "sha256": "d4e956ad32bed33536cf825f8ffb4baf88ab1e0678095ea547cd2f5603ebebfe",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包内嵌PDF/图片与plist检查",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F183",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年3月9日.note",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年3月9日.note",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年3月9日.note",
       "bytes": 20761,
       "sha256": "b7cd220b9fe90665bda091ee899ead9eb21aa8827465041fa469b015f7af2136",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包内嵌PDF/图片与plist检查",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F184",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年4月25日.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年4月25日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年4月25日.pdf",
       "bytes": 11277,
       "sha256": "593ff978b0d2b59ce1e9d03c36f6bf550ebe1fe50e618bb773468a7eb4150642",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F185",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年4月27日.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年4月27日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年4月27日.pdf",
       "bytes": 11277,
       "sha256": "a394bfac32a083bfa66ea659725936ea2cb40e1bf1c1c8147b45d80b1de40c16",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F186",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年5月2日.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年5月2日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年5月2日.pdf",
       "bytes": 582652,
       "sha256": "43419f18bf54fd9fbb149e517ae9192d47160284e7cf3f54a25c353e07f65216",
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F187",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年6月15日.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年6月15日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年6月15日.pdf",
       "bytes": 8696370,
       "sha256": "504923d1530bee6501974d76768da7decb3d18ac44b34fb951bb70c1f99c0c2b",
       "format": ".pdf",
       "pdf_pages": 11,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "混有751事务和752 RDF/SPARQL复习"
+      "attribution_note": "混有751事务和752 RDF/SPARQL复习",
+      "category": "original-note"
     },
     {
       "id": "F188",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年6月24日 (2).pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年6月24日 (2).pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年6月24日 (2).pdf",
       "bytes": 46339,
       "sha256": "6222ceff48c36ba47377bb9ce94177ea46ecfd9c619bf3a097b2ac32462a8842",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F189",
       "course": "COMPSCI751",
       "original_relative_path": "751%25/笔记 2025年6月24日.pdf",
-      "repository_path": "courses/COMPSCI751/source/751%25/笔记 2025年6月24日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/751%25/笔记 2025年6月24日.pdf",
       "bytes": 389366,
       "sha256": "f8e369c809c9cad0cefc4866444bc0688889c774ebb3b03035a0841cc3366450",
       "format": ".pdf",
       "pdf_pages": 3,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F190",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/01-xml-slides.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/01-xml-slides.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/01-xml-slides.note",
       "bytes": 396788,
       "sha256": "ab66eb51f35461bb829bbcf4f1cc37ec68f30aa90535b069979a3a1327b8ad33",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F191",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/01-xml-slides.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/01-xml-slides.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/01-xml-slides.pdf",
       "bytes": 408494,
       "sha256": "a2a78dfe02dcc86a5c5863fdf3a6e3efec2218ea71274561fab2055309a6be80",
       "format": ".pdf",
       "pdf_pages": 55,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F192",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/02-xpath.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/02-xpath.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/02-xpath.note",
       "bytes": 4718387,
       "sha256": "53a11b8ac4889b0fa1ac764746fdee3bcf466db67a83ce0231620f2cb0cc7f19",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F193",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/02-xpath.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/02-xpath.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/02-xpath.pdf",
       "bytes": 4610852,
       "sha256": "9030d25beb2465e14e2f287037d0765cbcc638aa20ea58e8e3ba6cc1b2a4b18c",
       "format": ".pdf",
       "pdf_pages": 4,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F194",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/03-xquery-solutions.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/03-xquery-solutions.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/03-xquery-solutions.note",
       "bytes": 1513525,
       "sha256": "223783ffb1e0288a54e600215a62894fbab33b52bf42bf18f70a6093d613c80c",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F195",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/03-xquery-solutions.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/03-xquery-solutions.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/03-xquery-solutions.pdf",
       "bytes": 1450812,
       "sha256": "fbeeb9bafc68a1dccfe992417be016dbe45479e558ddcf076e5c2b6667c36533",
       "format": ".pdf",
       "pdf_pages": 12,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F196",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/04-PGM-model.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/04-PGM-model.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/04-PGM-model.note",
       "bytes": 1343702,
       "sha256": "531efcb8da6b724c47c972278c750e8f36fdb99852a88263f2b4abe9a0b86c99",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F197",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/04-PGM-model.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/04-PGM-model.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/04-PGM-model.pdf",
       "bytes": 1874343,
       "sha256": "463b4954e637703c4f820de4ada63c40902c99ab4e1315b4ecfc445f7f4f0253",
       "format": ".pdf",
       "pdf_pages": 6,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F198",
@@ -2328,7 +2521,8 @@
       "format": ".pdf",
       "pdf_pages": 3,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F199",
@@ -2340,7 +2534,8 @@
       "format": ".pdf",
       "pdf_pages": 34,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F200",
@@ -2352,7 +2547,8 @@
       "format": ".pdf",
       "pdf_pages": 42,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F201",
@@ -2364,151 +2560,164 @@
       "format": ".pdf",
       "pdf_pages": 35,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F202",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/752 2.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/752 2.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/752 2.note",
       "bytes": 915108,
       "sha256": "1be8c1b9003d3d39acd70d16b2986c0b97d5074252593a9b9d66770b845031e6",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F203",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/752 2.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/752 2.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/752 2.pdf",
       "bytes": 1047181,
       "sha256": "8c17f31c257940f91a3edaeaaffce020edf879a741486d12969cdd24edaeb085",
       "format": ".pdf",
       "pdf_pages": 65,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F204",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/752-3.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/752-3.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/752-3.note",
       "bytes": 7518716,
       "sha256": "f5eabcddc2be2d176550cb99599c28fb4ea20917bc67b16d6494944e01c99a7f",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F205",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/752-3.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/752-3.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/752-3.pdf",
       "bytes": 8419587,
       "sha256": "bd72c17e05ecdb97389e1f23006ef3024308da84298d300c6f1f70713adcf58b",
       "format": ".pdf",
       "pdf_pages": 82,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F206",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/752（1）.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/752（1）.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/752（1）.note",
       "bytes": 10751513,
       "sha256": "04f14385f0e81a42ebf3194b53c0749b60284e1519246d9a10cf48f50d77531f",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F207",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/752（1）.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/752（1）.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/752（1）.pdf",
       "bytes": 9874495,
       "sha256": "11e6db402e13630236f86b16e2e3dbc8651bbb4fe9bd4672a667b0c6e28fe493",
       "format": ".pdf",
       "pdf_pages": 30,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F208",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/CS752_Cypher_Tutorial.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/CS752_Cypher_Tutorial.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/CS752_Cypher_Tutorial.note",
       "bytes": 360399,
       "sha256": "f9c4efc4fce5476011ce9884b4ec753a427ff0d31aca5b3d644a5883bc294627",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F209",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/CS752_Cypher_Tutorial.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/CS752_Cypher_Tutorial.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/CS752_Cypher_Tutorial.pdf",
       "bytes": 327619,
       "sha256": "aa4c6aa4e44016ed93270819b92aaa2c30a7a617682e2e42f7b91466daabd502",
       "format": ".pdf",
       "pdf_pages": 3,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F210",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/graph-models.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/graph-models.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/graph-models.note",
       "bytes": 5282433,
       "sha256": "4ebb39b46c76c680c8817b2a251a7b9b155db54f714c668b4230da07a8ff3582",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F211",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/graph-models.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/graph-models.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/graph-models.pdf",
       "bytes": 9294439,
       "sha256": "fa029596dc7800b465fa5b90f2b1850fbf1807feef884687b51f7188f87d412c",
       "format": ".pdf",
       "pdf_pages": 98,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F212",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/graph_queries_2025.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/graph_queries_2025.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/graph_queries_2025.note",
       "bytes": 3902528,
       "sha256": "6fe6662241b3360b945dc0d4419174c58f9b82387fb0d4b6be8a6fc276026994",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F213",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/graph_queries_2025.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/graph_queries_2025.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/graph_queries_2025.pdf",
       "bytes": 4923074,
       "sha256": "11fd27c096f49e072e2cc5a96ffd25f577228ea7a2a6fa07ca0295d65c9a5a17",
       "format": ".pdf",
       "pdf_pages": 142,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F214",
@@ -2520,7 +2729,8 @@
       "format": ".pdf",
       "pdf_pages": 98,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F215",
@@ -2532,7 +2742,8 @@
       "format": ".pdf",
       "pdf_pages": 98,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F216",
@@ -2544,7 +2755,8 @@
       "format": ".pdf",
       "pdf_pages": 57,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F217",
@@ -2556,31 +2768,34 @@
       "format": ".pdf",
       "pdf_pages": 20,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F218",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/slxquery.note",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/slxquery.note",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/slxquery.note",
       "bytes": 5145068,
       "sha256": "1a6ded7e06495a973a63cf4acefc0c681a5c896c286bf98640b79576abaacfc4",
       "format": ".note",
       "pdf_pages": null,
       "read_method": "原生包检查；同名PDF作内容阅读入口",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F219",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/slxquery.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/slxquery.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/slxquery.pdf",
       "bytes": 5261211,
       "sha256": "78309a657b5f190b7455ab2957b620d3e637f5c35ff7092488166663a20f11fa",
       "format": ".pdf",
       "pdf_pages": 68,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F220",
@@ -2592,7 +2807,8 @@
       "format": ".pdf",
       "pdf_pages": 90,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F221",
@@ -2604,7 +2820,8 @@
       "format": ".pdf",
       "pdf_pages": 90,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F222",
@@ -2616,7 +2833,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F223",
@@ -2628,7 +2846,8 @@
       "format": ".pdf",
       "pdf_pages": 23,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F224",
@@ -2640,7 +2859,8 @@
       "format": ".pdf",
       "pdf_pages": 26,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F225",
@@ -2652,115 +2872,125 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F226",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/复习笔记 -考前打印2.docx",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/复习笔记 -考前打印2.docx",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/复习笔记 -考前打印2.docx",
       "bytes": 1183792,
       "sha256": "8a6b257369b9209f291bbdb6fd9c8a9bcaba1cabfe6f178e5616bc8a127b27aa",
       "format": ".docx",
       "pdf_pages": null,
       "read_method": "DOCX正文XML提取",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F227",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/复习笔记.docx",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/复习笔记.docx",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/复习笔记.docx",
       "bytes": 3865503,
       "sha256": "17e8b558a5ed5d4fe26376541428a7a770c16245a7a7ad44c1f0a41a30247b01",
       "format": ".docx",
       "pdf_pages": null,
       "read_method": "DOCX正文XML提取",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F228",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/打印.docx",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/打印.docx",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/打印.docx",
       "bytes": 6109508,
       "sha256": "550714fb23c0155590d66705dc01bcbbc4fe45a841d86a14ff2a6210200bba38",
       "format": ".docx",
       "pdf_pages": null,
       "read_method": "DOCX正文XML提取",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F229",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/笔记 2025年4月13日 (Recovered).pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/笔记 2025年4月13日 (Recovered).pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/笔记 2025年4月13日 (Recovered).pdf",
       "bytes": 409835,
       "sha256": "733a5a75558c450dcdd8c446e1ff2d3e59542fc3653ef68e9c636038d2075e0e",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F230",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/笔记 2025年4月13日.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/笔记 2025年4月13日.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/笔记 2025年4月13日.pdf",
       "bytes": 409974,
       "sha256": "e451cf336e1f497a0b382230cb10b2ad6c7048dde69fe6c252c3d2fcd0662b6d",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F231",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/笔记 2025年5月20日.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/笔记 2025年5月20日.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/笔记 2025年5月20日.pdf",
       "bytes": 3572641,
       "sha256": "3e4642490c17c1f2c66fcd991714f72cd6baa659cad854098b3e57ae20b98294",
       "format": ".pdf",
       "pdf_pages": 21,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F232",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/笔记 2025年6月26日.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/笔记 2025年6月26日.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/笔记 2025年6月26日.pdf",
       "bytes": 8713443,
       "sha256": "ab4047c6c0a1901c85f378691c13545ff3642a6263c04fdff5538aabbf9289a1",
       "format": ".pdf",
       "pdf_pages": 18,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F233",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/笔记 2025年6月3日.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/笔记 2025年6月3日.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/笔记 2025年6月3日.pdf",
       "bytes": 6151331,
       "sha256": "6005ab2cc4f1e6b7d505d83e8d5a1640220e6e26ecbdabae681c6dfc258b3b6d",
       "format": ".pdf",
       "pdf_pages": 19,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F234",
       "course": "COMPSCI752",
       "original_relative_path": "752/752（1）/笔记 2025年6月6日.pdf",
-      "repository_path": "courses/COMPSCI752/source/752/752（1）/笔记 2025年6月6日.pdf",
+      "repository_path": "courses/COMPSCI752/notes/original/752/752（1）/笔记 2025年6月6日.pdf",
       "bytes": 1969547,
       "sha256": "4c1b443119bc9b18b823fc1bc95f5945a148a308814be6822d9742da2645ae30",
       "format": ".pdf",
       "pdf_pages": 24,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F235",
@@ -2772,7 +3002,8 @@
       "format": ".pdf",
       "pdf_pages": 4,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "文件名CS752，正文COMPSCI753，以正文为准"
+      "attribution_note": "文件名CS752，正文COMPSCI753，以正文为准",
+      "category": "course-material"
     },
     {
       "id": "F236",
@@ -2784,7 +3015,8 @@
       "format": ".pdf",
       "pdf_pages": 4,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F237",
@@ -2796,7 +3028,8 @@
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F238",
@@ -2808,7 +3041,8 @@
       "format": ".pdf",
       "pdf_pages": 6,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F239",
@@ -2820,7 +3054,8 @@
       "format": ".pdf",
       "pdf_pages": 8,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F240",
@@ -2832,7 +3067,8 @@
       "format": ".pdf",
       "pdf_pages": 33,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F241",
@@ -2844,7 +3080,8 @@
       "format": ".pdf",
       "pdf_pages": 16,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F242",
@@ -2856,7 +3093,8 @@
       "format": ".pdf",
       "pdf_pages": 25,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F243",
@@ -2868,7 +3106,8 @@
       "format": ".pdf",
       "pdf_pages": 23,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F244",
@@ -2880,7 +3119,8 @@
       "format": ".pdf",
       "pdf_pages": 18,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F245",
@@ -2892,7 +3132,8 @@
       "format": ".pdf",
       "pdf_pages": 18,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F246",
@@ -2904,7 +3145,8 @@
       "format": ".pdf",
       "pdf_pages": 32,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F247",
@@ -2916,7 +3158,8 @@
       "format": ".pdf",
       "pdf_pages": 19,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F248",
@@ -2928,7 +3171,8 @@
       "format": ".pdf",
       "pdf_pages": 19,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F249",
@@ -2940,7 +3184,8 @@
       "format": ".pdf",
       "pdf_pages": 24,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F250",
@@ -2952,7 +3197,8 @@
       "format": ".pdf",
       "pdf_pages": 13,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F251",
@@ -2964,7 +3210,8 @@
       "format": ".pdf",
       "pdf_pages": 18,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F252",
@@ -2976,19 +3223,21 @@
       "format": ".pdf",
       "pdf_pages": 29,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F253",
       "course": "COMPSCI753",
       "original_relative_path": "753/W4.2+-+Probability+review.pdf",
-      "repository_path": "courses/COMPSCI753/source/753/W4.2+-+Probability+review.pdf",
+      "repository_path": "courses/COMPSCI753/notes/original/753/W4.2+-+Probability+review.pdf",
       "bytes": 606573,
       "sha256": "5f0a91704b16ccd4411ec5170e6123a650b7efa5ed7354932da3a4a7d05a15e3",
       "format": ".pdf",
       "pdf_pages": 16,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F254",
@@ -3000,7 +3249,8 @@
       "format": ".pdf",
       "pdf_pages": 19,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F255",
@@ -3012,7 +3262,8 @@
       "format": ".pdf",
       "pdf_pages": 40,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F256",
@@ -3024,7 +3275,8 @@
       "format": ".pdf",
       "pdf_pages": 24,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F257",
@@ -3036,7 +3288,8 @@
       "format": ".pdf",
       "pdf_pages": 24,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F258",
@@ -3048,7 +3301,8 @@
       "format": ".pdf",
       "pdf_pages": 40,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F259",
@@ -3060,7 +3314,8 @@
       "format": ".pdf",
       "pdf_pages": 16,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F260",
@@ -3072,7 +3327,8 @@
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F261",
@@ -3084,7 +3340,8 @@
       "format": ".pdf",
       "pdf_pages": 15,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F262",
@@ -3096,7 +3353,8 @@
       "format": ".pdf",
       "pdf_pages": 20,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F263",
@@ -3108,7 +3366,8 @@
       "format": ".pdf",
       "pdf_pages": 19,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F264",
@@ -3120,7 +3379,8 @@
       "format": ".pdf",
       "pdf_pages": 41,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F265",
@@ -3132,103 +3392,112 @@
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F266",
       "course": "COMPSCI753",
       "original_relative_path": "753/笔记 2025年10月14日.pdf",
-      "repository_path": "courses/COMPSCI753/source/753/笔记 2025年10月14日.pdf",
+      "repository_path": "courses/COMPSCI753/notes/original/753/笔记 2025年10月14日.pdf",
       "bytes": 140500,
       "sha256": "7b8dbb49424df875a702ce16421a28c71085331497473843040272a3107cda23",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F267",
       "course": "COMPSCI753",
       "original_relative_path": "753/笔记 2025年10月29日.pdf",
-      "repository_path": "courses/COMPSCI753/source/753/笔记 2025年10月29日.pdf",
+      "repository_path": "courses/COMPSCI753/notes/original/753/笔记 2025年10月29日.pdf",
       "bytes": 10020483,
       "sha256": "0eb6ca0008ed2bf8b5963d9805f930e7683bb9f8dbd9b34d7c4e4c2fc8d9bfba",
       "format": ".pdf",
       "pdf_pages": 27,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F268",
       "course": "COMPSCI753",
       "original_relative_path": "753/笔记 2025年10月30日.pdf",
-      "repository_path": "courses/COMPSCI753/source/753/笔记 2025年10月30日.pdf",
+      "repository_path": "courses/COMPSCI753/notes/original/753/笔记 2025年10月30日.pdf",
       "bytes": 2342849,
       "sha256": "07a4d2f634ed222641001164a9b9a151349133f1485b1df0a216000ab730ccb2",
       "format": ".pdf",
       "pdf_pages": 19,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F269",
       "course": "COMPSCI778",
       "original_relative_path": "753/笔记 2025年11月17日.pdf",
-      "repository_path": "courses/COMPSCI778/source/753/笔记 2025年11月17日.pdf",
+      "repository_path": "courses/COMPSCI778/notes/original/753/笔记 2025年11月17日.pdf",
       "bytes": 133216,
       "sha256": "a22173a7f5dd1c8d79c95b1062b71e1ee2c3164b8594031d7665f02d7a1e7752",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "原在753，候选项目选题，暂归778，可信度中"
+      "attribution_note": "原在753，候选项目选题，暂归778，可信度中",
+      "category": "original-note"
     },
     {
       "id": "F270",
       "course": "COMPSCI753",
       "original_relative_path": "753/笔记 2025年8月13日.pdf",
-      "repository_path": "courses/COMPSCI753/source/753/笔记 2025年8月13日.pdf",
+      "repository_path": "courses/COMPSCI753/notes/original/753/笔记 2025年8月13日.pdf",
       "bytes": 91979,
       "sha256": "9b665ea906d27e8bdda21b7cdee9041b1a19552d44aeaefc780813c48dc2bc41",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F271",
       "course": "COMPSCI753",
       "original_relative_path": "753/笔记 2025年9月9日.pdf",
-      "repository_path": "courses/COMPSCI753/source/753/笔记 2025年9月9日.pdf",
+      "repository_path": "courses/COMPSCI753/notes/original/753/笔记 2025年9月9日.pdf",
       "bytes": 226618,
       "sha256": "7a9bae1b67337e504f919e8354f3777b3c12747b2d9e16d753377f138873279e",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F330",
       "course": "COMPSCI711",
       "original_relative_path": "midblock review.pdf",
-      "repository_path": "courses/COMPSCI711/source/midblock review.pdf",
+      "repository_path": "courses/COMPSCI711/notes/original/midblock review.pdf",
       "bytes": 5624841,
       "sha256": "77e583f8a44b5d1fc9dcf0c2f494d568c8a5b2a9806ebceb2c4a1d1ce317ea37",
       "format": ".pdf",
       "pdf_pages": 17,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F331",
       "course": "COMPSCI778",
       "original_relative_path": "presentation.pdf",
-      "repository_path": "courses/COMPSCI778/source/presentation.pdf",
+      "repository_path": "courses/COMPSCI778/notes/original/presentation.pdf",
       "bytes": 161303,
       "sha256": "2ddd38ecfeab3900242b10a359e1f73d907d3714439960fa8605e91cc415b196",
       "format": ".pdf",
       "pdf_pages": 5,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "明确出现internship；对应778为有依据的推测"
+      "attribution_note": "明确出现internship；对应778为有依据的推测",
+      "category": "original-note"
     },
     {
       "id": "F332",
@@ -3240,79 +3509,86 @@
       "format": ".pdf",
       "pdf_pages": 29,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "course-material"
     },
     {
       "id": "F334",
       "course": "COMPSCI778",
       "original_relative_path": "新建 Microsoft Word 文档.pdf",
-      "repository_path": "courses/COMPSCI778/source/新建 Microsoft Word 文档.pdf",
+      "repository_path": "courses/COMPSCI778/notes/original/新建 Microsoft Word 文档.pdf",
       "bytes": 150153,
       "sha256": "5d7305264387e9f0c486729df7bc3111a6272fa859960bbded35c2abb706a844",
       "format": ".pdf",
       "pdf_pages": 3,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "库存对账项目准备；暂归778，尚未确认与IdeaSense AI关系"
+      "attribution_note": "库存对账项目准备；暂归778，尚未确认与IdeaSense AI关系",
+      "category": "original-note"
     },
     {
       "id": "F335",
       "course": "INFOSYS704",
       "original_relative_path": "笔记 2025年10月23日.pdf",
-      "repository_path": "courses/INFOSYS704/source/笔记 2025年10月23日.pdf",
+      "repository_path": "courses/INFOSYS704/notes/original/笔记 2025年10月23日.pdf",
       "bytes": 18315,
       "sha256": "8541d2d2b734b4c3a0f4b50db1b93f47471d2501e31ecb8bb785e02fd7e9a11e",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F336",
       "course": "COMPSCI778",
       "original_relative_path": "笔记 2025年12月5日.pdf",
-      "repository_path": "courses/COMPSCI778/source/笔记 2025年12月5日.pdf",
+      "repository_path": "courses/COMPSCI778/notes/original/笔记 2025年12月5日.pdf",
       "bytes": 20439,
       "sha256": "2b360e60a7449c274efd43762a4eab799dab4d2e79db72d18906d3017b586492",
       "format": ".pdf",
       "pdf_pages": 1,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "IdeaSense AI项目计划；暂归778"
+      "attribution_note": "IdeaSense AI项目计划；暂归778",
+      "category": "original-note"
     },
     {
       "id": "F339",
       "course": "COMPSCI751",
       "original_relative_path": "笔记 2025年4月16日 (Recovered).pdf",
-      "repository_path": "courses/COMPSCI751/source/笔记 2025年4月16日 (Recovered).pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/笔记 2025年4月16日 (Recovered).pdf",
       "bytes": 985963,
       "sha256": "c3f83dd3bc1231674dac53450f88942791b3da67d49b3877932bd39b971bb758",
       "format": ".pdf",
       "pdf_pages": 10,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "排序/索引计算与图示；推测751"
+      "attribution_note": "排序/索引计算与图示；推测751",
+      "category": "original-note"
     },
     {
       "id": "F343",
       "course": "COMPSCI751",
       "original_relative_path": "笔记 2025年6月24日.pdf",
-      "repository_path": "courses/COMPSCI751/source/笔记 2025年6月24日.pdf",
+      "repository_path": "courses/COMPSCI751/notes/original/笔记 2025年6月24日.pdf",
       "bytes": 573760,
       "sha256": "35bda83651e4f2bf3e5fb2ac5e4bb347916376e624c8e764bdda81fc06ea0921",
       "format": ".pdf",
       "pdf_pages": 4,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     },
     {
       "id": "F345",
       "course": "INFOSYS704",
       "original_relative_path": "笔记 2025年9月15日.pdf",
-      "repository_path": "courses/INFOSYS704/source/笔记 2025年9月15日.pdf",
+      "repository_path": "courses/INFOSYS704/notes/original/笔记 2025年9月15日.pdf",
       "bytes": 62203,
       "sha256": "32b748bd5f9963374fcce14274e9a1f992ae9302d7f43f4f45d4e1f422391bc9",
       "format": ".pdf",
       "pdf_pages": 3,
       "read_method": "PDF文本层扫描；图片/低文本页补OCR及代表页目视核验",
-      "attribution_note": "按目录与正文主题归类"
+      "attribution_note": "按目录与正文主题归类",
+      "category": "original-note"
     }
   ]
 }

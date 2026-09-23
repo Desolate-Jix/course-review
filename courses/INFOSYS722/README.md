@@ -20,4 +20,4 @@
 
 ## 资料入口
 
-[课程笔记入口](notes/README.md) · [原始文件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)
+[课程笔记入口](notes/README.md) · [课件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)

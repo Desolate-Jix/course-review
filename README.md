@@ -23,7 +23,9 @@
 
 **范围约定：**不整理或上传 720、727、ELA／ENGLACP 60P；`IT/选课`仅用于本地核对，不作为课件上传。无法确认归属的根目录散页暂不上传。原文件不移动、不改名、不改内容。
 
-仓库按 `courses/<课程代码>/README.md`、`notes/`、`source/` 组织。`source/` 下保留每个文件在 Notability 中的原始相对路径，因此两处 751 仍然保留，但大纲按同一门 COMPSCI 751 合并；错放文件放到正确课程下，同时保留来源路径。
+仓库按 `courses/<课程代码>/README.md`、`notes/`、`source/` 组织。**原始笔记位于各课 `notes/original/`，点击 `notes/README.md` 可直接查找。**课件资料位于 `source/`。两类目录都保留文件在 Notability 中的原始相对路径，因此两处 751 仍然保留，但大纲按同一门 COMPSCI 751 合并；错放文件放到正确课程下，同时保留来源路径。
+
+原始笔记共 **147 个文件**：49 个 Notability `.note`、95 个 PDF（包括批注课件和复习／项目笔记）、3 个 DOCX。它们是原文件，不是重新生成的摘要；`.note` 与对应 PDF 一起保留。其余 129 个文件作为课件资料保存。
 
 跨课程问题见 [interview/](interview/README.md)，阶段路线见 [review-plan/roadmap.md](review-plan/roadmap.md)。原始材料共 **276 个，约 965 MB**，包含 224 个 PDF、49 个 `.note` 和 3 个 DOCX。未找到实际材料的课程只有说明页。
 

@@ -14,11 +14,11 @@
 
 **推荐作为八股主干：**进程／线程与同步、逻辑时钟、消息有序性、CAP 与一致性、Paxos 基本机制、死锁、缓存。分布式 GC 和特定互斥算法的逐步证明为较低优先级专题。
 
-**代表依据：**[F076：Threads & Processes](source/711/1/Threads%2B%2526%2BProcesses.pdf)；[F053：Monitors](source/711/1/Monitors-Additional.pdf)；[F045：711（1）](source/711/1/711%20%EF%BC%881%EF%BC%89.pdf)与[F041：711 2](source/711/1/711%202.pdf)的图片笔记；[F043：多播](source/711/1/711%203.pdf)，第 7–92 页；[F037：3.19 分布式互斥](source/711/1/3.19.pdf)；[F068：snapshot](source/711/1/S7%2Bsnapshot%20%282%29.pdf)；[F072：Paxos](source/711/1/S8%2Bpaxos.pdf)；[F074：Consistency and CAP](source/711/1/S9%2BnoSQL.pdf)；[F054：多处理器 Cache](source/711/1/Multiprocessor%2BCaches.pdf)；[F330：根目录 midblock review](source/midblock%20review.pdf)。
+**代表依据：**[F076：Threads & Processes](source/711/1/Threads%2B%2526%2BProcesses.pdf)；[F053：Monitors](source/711/1/Monitors-Additional.pdf)；[F045：711（1）](notes/original/711/1/711%20%EF%BC%881%EF%BC%89.pdf)与[F041：711 2](notes/original/711/1/711%202.pdf)的图片笔记；[F043：多播](notes/original/711/1/711%203.pdf)，第 7–92 页；[F037：3.19 分布式互斥](notes/original/711/1/3.19.pdf)；[F068：snapshot](notes/original/711/1/S7%2Bsnapshot%20%282%29.pdf)；[F072：Paxos](notes/original/711/1/S8%2Bpaxos.pdf)；[F074：Consistency and CAP](notes/original/711/1/S9%2BnoSQL.pdf)；[F054：多处理器 Cache](source/711/1/Multiprocessor%2BCaches.pdf)；[F330：根目录 midblock review](notes/original/midblock%20review.pdf)。
 
-**项目材料边界：**[F058：PRESENTATION](source/711/1/PRESENTATION.pdf)自述 C# 多线程 Chess server、TCP／HTTP1.1 和 JavaScript 客户端，可用作项目回忆线索；这份自我介绍不等于代码或验收证据。711 目录里的数字钱包展示属于 700 主题，722 反馈属于 722，不计入 711 的授课范围。
+**项目材料边界：**[F058：PRESENTATION](notes/original/711/1/PRESENTATION.pdf)自述 C# 多线程 Chess server、TCP／HTTP1.1 和 JavaScript 客户端，可用作项目回忆线索；这份自我介绍不等于代码或验收证据。711 目录里的数字钱包展示属于 700 主题，722 反馈属于 722，不计入 711 的授课范围。
 
 
 ## 资料入口
 
-[课程笔记入口](notes/README.md) · [原始文件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)
+[课程笔记入口](notes/README.md) · [课件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)

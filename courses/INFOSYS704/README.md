@@ -14,9 +14,9 @@
 
 **推荐复习形式：**把问题拆解、AS-IS／TO-BE、FURPS、风险和发布策略整理成简短问答；把 Spark 组织协作案例整理成“问题—证据—方案—指标”的案例。无需把全部咨询框架和 SAP 产品页机械背诵。
 
-**代表依据：**[F025：Lecture 3](source/704/Week%2B1%2B704%2B2025%2BLecture%2B3.pdf)；[F022：Lecture 4 较长版本](source/704/Week%202%20704%202025%20Lecture%204%20.pdf)；[F028：Process Lifecycle](source/704/Week%2B4%2B704%2B2025%2BLecture%2B6%2BV3.pdf)；[F029：Implementation Roadmaps](source/704/Week%2B5%2B704%2B2025%2BLecture%2B7%2BV1.pdf)；[F030：Presenting Your Proposal](source/704/Week%2B5%2B704%2B2025%2BLecture%2B8%2BV2.pdf)；[F021：Enterprise Systems](source/704/Enterprise%2BSystems%2BGuest%2BLecture%2B-%2BMay%2B2025.pdf)；[F335：根目录 10 月 23 日 Spark／MIT90 讲稿](source/%E7%AC%94%E8%AE%B0%202025%E5%B9%B410%E6%9C%8823%E6%97%A5.pdf)；[F345：9 月 15 日咨询笔记](source/%E7%AC%94%E8%AE%B0%202025%E5%B9%B49%E6%9C%8815%E6%97%A5.pdf)。
+**代表依据：**[F025：Lecture 3](source/704/Week%2B1%2B704%2B2025%2BLecture%2B3.pdf)；[F022：Lecture 4 较长版本](source/704/Week%202%20704%202025%20Lecture%204%20.pdf)；[F028：Process Lifecycle](source/704/Week%2B4%2B704%2B2025%2BLecture%2B6%2BV3.pdf)；[F029：Implementation Roadmaps](source/704/Week%2B5%2B704%2B2025%2BLecture%2B7%2BV1.pdf)；[F030：Presenting Your Proposal](source/704/Week%2B5%2B704%2B2025%2BLecture%2B8%2BV2.pdf)；[F021：Enterprise Systems](source/704/Enterprise%2BSystems%2BGuest%2BLecture%2B-%2BMay%2B2025.pdf)；[F335：根目录 10 月 23 日 Spark／MIT90 讲稿](notes/original/%E7%AC%94%E8%AE%B0%202025%E5%B9%B410%E6%9C%8823%E6%97%A5.pdf)；[F345：9 月 15 日咨询笔记](notes/original/%E7%AC%94%E8%AE%B0%202025%E5%B9%B49%E6%9C%8815%E6%97%A5.pdf)。
 
 
 ## 资料入口
 
-[课程笔记入口](notes/README.md) · [原始文件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)
+[课程笔记入口](notes/README.md) · [课件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)

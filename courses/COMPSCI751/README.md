@@ -14,9 +14,9 @@
 
 **推荐作为八股主干：**SQL → 索引 → 查询优化 → ACID／隔离 → 锁与死锁 → WAL／恢复。外部排序、ER、连接依赖作为第二层；R-tree 和长篇树操作演算按岗位选择。
 
-**代表依据：**[F103：751-4 SQL](source/751/751%2525/751-4.pdf)；[F104：Buffer Manager and Sorting](source/751/751%2525/8_BufferManager_Sorting.pdf)，第 3–17 页；[F105：B+ 树](source/751/751%2525/9_Index_Btree.pdf)；[F096：Hashing／LSM](source/751/751%2525/10_Index_Hashing.pdf)，第 25–40 页；[F107：连接依赖](source/751/751%2525/DB351_2025_wk7_2_751.pdf)；[F118：查询成本](source/751/751%2525/db51_2025_wk8_2_09cs751.pdf)；[F115：隔离级别](source/751/751%2525/DB51_2025_IsoLevels.pdf)；[F114：持久性与恢复](source/751/751%2525/DB51_2025_GWdurability.pdf)。[F129：6 月 15 日笔记](source/751/751%2525/%E7%AC%94%E8%AE%B0%202025%E5%B9%B46%E6%9C%8815%E6%97%A5.pdf)同时混有 RDF／SPARQL 和事务复习，不能将整份笔记机械归为单一模块。
+**代表依据：**[F103：751-4 SQL](source/751/751%2525/751-4.pdf)；[F104：Buffer Manager and Sorting](source/751/751%2525/8_BufferManager_Sorting.pdf)，第 3–17 页；[F105：B+ 树](source/751/751%2525/9_Index_Btree.pdf)；[F096：Hashing／LSM](source/751/751%2525/10_Index_Hashing.pdf)，第 25–40 页；[F107：连接依赖](source/751/751%2525/DB351_2025_wk7_2_751.pdf)；[F118：查询成本](source/751/751%2525/db51_2025_wk8_2_09cs751.pdf)；[F115：隔离级别](source/751/751%2525/DB51_2025_IsoLevels.pdf)；[F114：持久性与恢复](source/751/751%2525/DB51_2025_GWdurability.pdf)。[F129：6 月 15 日笔记](notes/original/751/751%2525/%E7%AC%94%E8%AE%B0%202025%E5%B9%B46%E6%9C%8815%E6%97%A5.pdf)同时混有 RDF／SPARQL 和事务复习，不能将整份笔记机械归为单一模块。
 
 
 ## 资料入口
 
-[课程笔记入口](notes/README.md) · [原始文件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)
+[课程笔记入口](notes/README.md) · [课件目录](source/) · [总知识地图](../../docs/课程知识地图.md) · [复习路线](../../review-plan/roadmap.md)
