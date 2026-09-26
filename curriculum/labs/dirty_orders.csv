@@ -1,0 +1,11 @@
+id,user_id,amount,status
+101,1,100,paid
+102,1,200,pending
+103,2,50,paid
+104,4,0,cancelled
+105,1,100,paid
+101,1,100,paid
+106,1,oops,paid
+107,999,20,paid
+108,2,-10,paid
+103,2,75,paid

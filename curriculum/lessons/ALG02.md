@@ -1,0 +1,50 @@
+# ALG02｜哈希计数与配对
+
+先修：ALG01。先修待验证时先做前节验收；通过可跳过重复讲解。
+
+## 学完要能做到
+
+用计数Map正确消费重复元素，能解释操作顺序和复杂度假设，并解决剩余频次变式。
+
+## 讲解与例题
+
+
+### 1. 先明确key与value的含义
+
+Map<Integer,Integer>可以表示“数值→出现次数”。Set只表示存在性，无法表达一个数出现两次。若题目要求消费配对的两个元素，次数就很重要。
+
+以旧题1679 Max Number of K-Sum Pairs为例：每次读x，查是否有尚未配对的k-x。若有，消费一次并增加答案；若无，把x存入未匹配计数。
+
+### 2. 为什么先查再存
+
+对k=6、数组 `[3]`，先存再查会把这唯一元素与自己配对。先查旧计数，再存当前元素，保证配对使用两个不同位置。
+
+对 `[1,2,3,4]`,k=5，1与2暂存，3消费2，4消费1，共2对。对 `[3,3,3]`,k=6，共1对并剩一个3。Map里计数0表示没有可用元素，不能只检查containsKey。
+
+### 3. 为什么能优化
+
+暴力查找搭档可能对每个数扫描其余数，约O(n²)。哈希方法通常按期望O(1)查改计数，所以整体期望O(n)，额外空间O(n)。这是基于哈希性能假设，不是所有场景下无条件最坏O(1)。Java具体性能还受哈希分布和实现影响。
+
+
+## 独立练习
+
+
+1. 闭卷Java复刷1679，测试[3]、[3,3,3]、[1,2,3,4]和空数组。
+2. 解释为什么Set不够、containsKey不够，以及为什么先查再存。
+3. 原创变式：返回未配对元素的频次Map，删除或忽略0计数。
+4. 复述旧题1207 Unique Number of Occurrences：哪个容器负责计数，哪个负责检查次数是否重复？
+
+
+先写自己的解答，记录用过哪些提示，再打开[答案与判分要点](../answers/ALG02.md)。
+
+## 验收与复习
+
+完成独立题后，按[统一标准](../ASSESSMENT.md)评估。必须处理题目中的边界或变式；刚看完答案的重写不能算独立通过。用自己的话解释一个机制，再用英语说一个60秒摘要。当前不会的内容回到本节具体小点补学。
+
+用计数Map正确消费重复元素，能解释操作顺序和复杂度假设，并解决剩余频次变式。
+
+## 资料
+
+[已有24题及代码笔记](https://github.com/Desolate-Jix/learning-plan/blob/main/STUDY_PROGRESS.md)；[LeetCode 75题单](https://github.com/Desolate-Jix/learning-plan/blob/main/LEETCODE_75_CHECKLIST.md)。优先Java闭卷复刷，原创迁移练习不计入75题。 [Java HashMap文档](https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/HashMap.html)。
+
+[课程目录](../README.md) · [每日安排](https://github.com/Desolate-Jix/learning-plan)
