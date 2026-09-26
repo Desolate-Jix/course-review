@@ -6,6 +6,8 @@
 
 **新增：[面试八股总目录](interview/README.md)**。题量不设上限，按[覆盖地图](interview/COVERAGE.md)补齐机制、边界与实作；讲义中的两条入口示例不限制完整题卡范围。
 
+**每天结合GUI项目：** 正常日15分钟，验收日10分钟，包含在既有预算；开课读取最新项目再确定讲解内容，见[动态学习规则](https://github.com/Desolate-Jix/learning-plan/blob/main/GUI_PROJECT_STUDY.md)。不编固定项目题库。
+
 ## 怎样使用每一课
 
 1. 核对先修；能独立通过先修验收就跳过重复讲解，不强制从零抄课件。
