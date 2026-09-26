@@ -1,0 +1,2732 @@
+{
+  "updated": "2026-09-26",
+  "policy": "不限题量；按知识点、机制、边界与验证覆盖；材料覆盖不是掌握",
+  "foundation_questions": 67,
+  "total_questions": 290,
+  "modules": [
+    {
+      "code": "MYSQL",
+      "title": "MySQL索引、事务、锁与日志",
+      "stage": "B｜数据库进阶",
+      "prereq": "DB01–DB08；先识别MySQL 8.4/InnoDB与PostgreSQL差异",
+      "count": 20
+    },
+    {
+      "code": "NET",
+      "title": "计算机网络与HTTP",
+      "stage": "B｜通用基础",
+      "prereq": "函数、基本输入输出",
+      "count": 15
+    },
+    {
+      "code": "OS",
+      "title": "操作系统、并发与Linux",
+      "stage": "B｜通用基础",
+      "prereq": "函数、内存引用；NET可并行学习",
+      "count": 13
+    },
+    {
+      "code": "DS",
+      "title": "数据结构与算法后续覆盖",
+      "stage": "B→C｜算法进阶",
+      "prereq": "ALG01–ALG05；按题序补递归",
+      "count": 11
+    },
+    {
+      "code": "PYX",
+      "title": "Python语言机制与并发",
+      "stage": "C｜Python/后端专项",
+      "prereq": "PY01–PY03；并发题先学OS",
+      "count": 12
+    },
+    {
+      "code": "JS",
+      "title": "JavaScript与TypeScript",
+      "stage": "C｜前端/全栈专项",
+      "prereq": "主语言函数与引用；NET入门",
+      "count": 14
+    },
+    {
+      "code": "WEB",
+      "title": "HTML/CSS、浏览器、安全与构建",
+      "stage": "C｜前端/全栈专项",
+      "prereq": "NET、JS",
+      "count": 13
+    },
+    {
+      "code": "REACT",
+      "title": "React与Next.js",
+      "stage": "C｜前端/全栈专项",
+      "prereq": "JS、WEB；熟悉组件与基本状态",
+      "count": 14
+    },
+    {
+      "code": "ENG",
+      "title": "OOP、Git、测试与工程实践",
+      "stage": "B｜通用工程基础",
+      "prereq": "函数、引用、能运行小程序",
+      "count": 12
+    },
+    {
+      "code": "API",
+      "title": "后端API、FastAPI与安全",
+      "stage": "C｜后端/全栈专项",
+      "prereq": "NET、DB08、PYX、ENG",
+      "count": 12
+    },
+    {
+      "code": "CACHE",
+      "title": "Redis、缓存与可靠性",
+      "stage": "C｜后端/全栈专项",
+      "prereq": "API、MYSQL或DB07–08、OS",
+      "count": 12
+    },
+    {
+      "code": "SYS",
+      "title": "分布式、消息队列与系统设计",
+      "stage": "D｜岗位进阶",
+      "prereq": "NET、API、DB08、CACHE",
+      "count": 10
+    },
+    {
+      "code": "JAVA",
+      "title": "Java后端：语言、集合、并发、JVM与Spring",
+      "stage": "C→D｜投Java岗位时启用",
+      "prereq": "ALG02、OS、ENG、API；基础Java语法",
+      "count": 28
+    },
+    {
+      "code": "DATA",
+      "title": "数据分析、数据工程与机器学习基础",
+      "stage": "C→D｜申请Data/ML岗位时启用",
+      "prereq": "PY03、DB01–08；统计题先补概率基础",
+      "count": 16
+    },
+    {
+      "code": "AI",
+      "title": "AI应用、RAG与Agent可靠性",
+      "stage": "D｜AI/Agent专项",
+      "prereq": "API、ENG、DATA评估基础；了解向量和相似度",
+      "count": 13
+    },
+    {
+      "code": "VUE",
+      "title": "Vue岗位补充",
+      "stage": "C｜JD要求Vue时启用",
+      "prereq": "JS、WEB；与React按目标岗位选择",
+      "count": 8
+    }
+  ],
+  "questions": [
+    {
+      "id": "DB01-Q1",
+      "module": "DB01",
+      "question": "主键、外键分别解决什么问题？外键为什么可以重复？",
+      "file": "DB01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB01-Q2",
+      "module": "DB01",
+      "question": "为什么把用户和订单分成两张表？什么时候需要关联表？",
+      "file": "DB01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB01-Q3",
+      "module": "DB01",
+      "question": "候选键、主键、业务唯一键有什么区别？",
+      "file": "DB01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB01-Q4",
+      "module": "DB01",
+      "question": "一对多与多对多怎么落表？",
+      "file": "DB01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB02-Q1",
+      "module": "DB02",
+      "question": "NULL、0和空字符串有什么区别？为什么不能写city = NULL？",
+      "file": "DB02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB02-Q2",
+      "module": "DB02",
+      "question": "DISTINCT和ORDER BY有什么区别？为什么不能用DISTINCT随手修复重复？",
+      "file": "DB02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB02-Q3",
+      "module": "DB02",
+      "question": "SQL的三值逻辑怎样影响NOT与WHERE？",
+      "file": "DB02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB02-Q4",
+      "module": "DB02",
+      "question": "LIMIT分页为什么需要稳定排序？",
+      "file": "DB02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB03-Q1",
+      "module": "DB03",
+      "question": "WHERE、GROUP BY和HAVING的逻辑关系是什么？",
+      "file": "DB03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB03-Q2",
+      "module": "DB03",
+      "question": "COUNT(*)、COUNT(column)和COUNT(DISTINCT column)有什么区别？",
+      "file": "DB03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB03-Q3",
+      "module": "DB03",
+      "question": "SUM、AVG遇到NULL和空集合怎样处理？",
+      "file": "DB03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB03-Q4",
+      "module": "DB03",
+      "question": "UNION和UNION ALL有什么区别？",
+      "file": "DB03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB04-Q1",
+      "module": "DB04",
+      "question": "INNER JOIN和LEFT JOIN有什么区别？连接后为什么行数会增加？",
+      "file": "DB04.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB04-Q2",
+      "module": "DB04",
+      "question": "LEFT JOIN的条件放ON和WHERE里为什么结果可能不同？",
+      "file": "DB04.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB04-Q3",
+      "module": "DB04",
+      "question": "多个一对多JOIN为什么会重复累计金额？",
+      "file": "DB04.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB04-Q4",
+      "module": "DB04",
+      "question": "嵌套循环、哈希连接、归并连接怎么比较？",
+      "file": "DB04.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB05-Q1",
+      "module": "DB05",
+      "question": "什么时候用EXISTS，而不是JOIN？NOT EXISTS有什么用途？",
+      "file": "DB05.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB05-Q2",
+      "module": "DB05",
+      "question": "CTE有什么用？NOT IN遇到NULL为什么可能出错？",
+      "file": "DB05.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB05-Q3",
+      "module": "DB05",
+      "question": "相关子查询一定比JOIN慢吗？",
+      "file": "DB05.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB05-Q4",
+      "module": "DB05",
+      "question": "CTE一定物化、一定更快吗？",
+      "file": "DB05.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB06-Q1",
+      "module": "DB06",
+      "question": "PRIMARY KEY、FOREIGN KEY、NOT NULL和CHECK分别保证什么？",
+      "file": "DB06.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB06-Q2",
+      "module": "DB06",
+      "question": "数据清洗如何判断重复？怎样证明没有错误丢数据？",
+      "file": "DB06.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB06-Q3",
+      "module": "DB06",
+      "question": "一二三范式解决什么问题？",
+      "file": "DB06.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB06-Q4",
+      "module": "DB06",
+      "question": "DELETE、TRUNCATE、DROP如何选择？",
+      "file": "DB06.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB06-Q5",
+      "module": "DB06",
+      "question": "为什么应用先查再插仍可能重复？",
+      "file": "DB06.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB07-Q1",
+      "module": "DB07",
+      "question": "索引为什么能加快查询？为什么不是越多越好？",
+      "file": "DB07.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB07-Q2",
+      "module": "DB07",
+      "question": "如何优化慢SQL？EXPLAIN和EXPLAIN ANALYZE有什么区别？",
+      "file": "DB07.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB07-Q3",
+      "module": "DB07",
+      "question": "B树与B+树的关键区别和检索收益是什么？",
+      "file": "DB07.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB07-Q4",
+      "module": "DB07",
+      "question": "复合索引(a,b)与两个单列索引等价吗？",
+      "file": "DB07.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB07-Q5",
+      "module": "DB07",
+      "question": "索引列套函数、隐式转换、前置通配符为什么可能变慢？",
+      "file": "DB07.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB07-Q6",
+      "module": "DB07",
+      "question": "估计行数与实际行数差很多意味着什么？",
+      "file": "DB07.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB08-Q1",
+      "module": "DB08",
+      "question": "ACID分别是什么？为什么用了事务还可能转账错误？",
+      "file": "DB08.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB08-Q2",
+      "module": "DB08",
+      "question": "Read Committed和Repeatable Read有什么区别？超时后能直接重试吗？",
+      "file": "DB08.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB08-Q3",
+      "module": "DB08",
+      "question": "脏读、不可重复读、幻读、丢失更新有什么区别？",
+      "file": "DB08.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB08-Q4",
+      "module": "DB08",
+      "question": "乐观锁与悲观锁如何保护更新？",
+      "file": "DB08.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB08-Q5",
+      "module": "DB08",
+      "question": "死锁怎样产生、怎样减少？",
+      "file": "DB08.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DB08-Q6",
+      "module": "DB08",
+      "question": "隔离级别和持久性怎样按产品回答？",
+      "file": "DB08.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY01-Q1",
+      "module": "PY01",
+      "question": "list、tuple、dict、set怎样选择？",
+      "file": "PY01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY01-Q2",
+      "module": "PY01",
+      "question": "函数的return位置为什么重要？如何处理空输入和类型？",
+      "file": "PY01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY01-Q3",
+      "module": "PY01",
+      "question": "可哈希与不可变是一回事吗？",
+      "file": "PY01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY01-Q4",
+      "module": "PY01",
+      "question": "位置参数、关键字参数与可变参数怎样使用？",
+      "file": "PY01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY02-Q1",
+      "module": "PY02",
+      "question": "赋值、浅复制和深复制有什么区别？",
+      "file": "PY02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY02-Q2",
+      "module": "PY02",
+      "question": "为什么不建议用可变对象作默认参数？==和is有什么区别？",
+      "file": "PY02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY02-Q3",
+      "module": "PY02",
+      "question": "函数参数到底传了什么？",
+      "file": "PY02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY02-Q4",
+      "module": "PY02",
+      "question": "复制二维列表怎样避免行共享？",
+      "file": "PY02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY03-Q1",
+      "module": "PY03",
+      "question": "如何处理CSV中的缺失、类型错误、重复与冲突？",
+      "file": "PY03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY03-Q2",
+      "module": "PY03",
+      "question": "为什么用with和针对性的except？为什么不用split处理任意CSV？",
+      "file": "PY03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY03-Q3",
+      "module": "PY03",
+      "question": "大文件为何不能总是read后全部放进内存？",
+      "file": "PY03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PY03-Q4",
+      "module": "PY03",
+      "question": "重跑ETL怎样避免重复导入？",
+      "file": "PY03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG01-Q1",
+      "module": "ALG01",
+      "question": "如何分析时间与空间复杂度？两个循环就是O(n²)吗？",
+      "file": "ALG01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG01-Q2",
+      "module": "ALG01",
+      "question": "什么是循环不变量？如何解释Move Zeroes的正确性？",
+      "file": "ALG01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG01-Q3",
+      "module": "ALG01",
+      "question": "数组和链表的访问与插入成本怎么比较？",
+      "file": "ALG01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG01-Q4",
+      "module": "ALG01",
+      "question": "稳定性、原地与时间复杂度是同一维度吗？",
+      "file": "ALG01.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG02-Q1",
+      "module": "ALG02",
+      "question": "HashMap和HashSet如何选择？查找一定是O(1)吗？",
+      "file": "ALG02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG02-Q2",
+      "module": "ALG02",
+      "question": "配对计数为什么先查搭档再存当前元素？",
+      "file": "ALG02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG02-Q3",
+      "module": "ALG02",
+      "question": "哈希冲突和扩容为什么会增加成本？",
+      "file": "ALG02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG02-Q4",
+      "module": "ALG02",
+      "question": "哈希表与平衡搜索树如何选？",
+      "file": "ALG02.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG03-Q1",
+      "module": "ALG03",
+      "question": "滑动窗口为什么能减少重复计算？",
+      "file": "ALG03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG03-Q2",
+      "module": "ALG03",
+      "question": "可变窗口里套while，为什么仍可能是O(n)？",
+      "file": "ALG03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG03-Q3",
+      "module": "ALG03",
+      "question": "滑动窗口与前缀和分别适合什么？",
+      "file": "ALG03.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG04-Q1",
+      "module": "ALG04",
+      "question": "二分查找需要什么前提？怎样避免死循环和边界错误？",
+      "file": "ALG04.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG04-Q2",
+      "module": "ALG04",
+      "question": "普通查找与lowerBound有什么区别？怎样处理重复和不存在？",
+      "file": "ALG04.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG04-Q3",
+      "module": "ALG04",
+      "question": "二分答案如何从判断问题构造？",
+      "file": "ALG04.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG05-Q1",
+      "module": "ALG05",
+      "question": "栈和队列有什么区别？怎样从题意选择？",
+      "file": "ALG05.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG05-Q2",
+      "module": "ALG05",
+      "question": "什么是摊还复杂度？Recent Calls为什么不是每次都最坏O(1)？",
+      "file": "ALG05.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG05-Q3",
+      "module": "ALG05",
+      "question": "单调栈与单调队列分别解决什么？",
+      "file": "ALG05.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ALG05-Q4",
+      "module": "ALG05",
+      "question": "两栈实现队列怎样解释摊还成本？",
+      "file": "ALG05.md",
+      "stage": "A",
+      "material": "参考答案与追问已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-01",
+      "module": "MYSQL",
+      "question": "聚簇索引与二级索引分别保存什么？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-02",
+      "module": "MYSQL",
+      "question": "什么是回表与覆盖索引？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-03",
+      "module": "MYSQL",
+      "question": "联合索引(a,b,c)的最左前缀怎样理解？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-04",
+      "module": "MYSQL",
+      "question": "索引下推解决什么问题？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-05",
+      "module": "MYSQL",
+      "question": "为什么建了索引仍全表扫描？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-06",
+      "module": "MYSQL",
+      "question": "EXPLAIN重点看什么？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-07",
+      "module": "MYSQL",
+      "question": "深分页怎样优化？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-08",
+      "module": "MYSQL",
+      "question": "COUNT(*)、COUNT(1)、COUNT(col)有什么区别？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-09",
+      "module": "MYSQL",
+      "question": "MVCC解决什么问题？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-10",
+      "module": "MYSQL",
+      "question": "Read View与RC/RR怎样联系？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-11",
+      "module": "MYSQL",
+      "question": "快照读与锁定读有什么区别？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-12",
+      "module": "MYSQL",
+      "question": "记录锁、间隙锁、next-key锁如何区别？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-13",
+      "module": "MYSQL",
+      "question": "RR是否绝对没有幻读？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-14",
+      "module": "MYSQL",
+      "question": "无索引UPDATE是否等同于直接加表锁？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-15",
+      "module": "MYSQL",
+      "question": "undo、redo、binlog分别负责什么？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-16",
+      "module": "MYSQL",
+      "question": "为什么需要协调redo和binlog？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-17",
+      "module": "MYSQL",
+      "question": "Buffer Pool、脏页和WAL是什么关系？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-18",
+      "module": "MYSQL",
+      "question": "如何减少数据库死锁与处理失败？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-19",
+      "module": "MYSQL",
+      "question": "主从复制能保证读到刚写入的数据吗？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "MYSQL-20",
+      "module": "MYSQL",
+      "question": "备份与复制能否互相替代？",
+      "file": "topics/MYSQL.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-01",
+      "module": "NET",
+      "question": "从输入URL到页面出现经过什么？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-02",
+      "module": "NET",
+      "question": "DNS递归、迭代与缓存是什么？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-03",
+      "module": "NET",
+      "question": "TCP与UDP怎么比较？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-04",
+      "module": "NET",
+      "question": "TCP为什么需要三次握手？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-05",
+      "module": "NET",
+      "question": "TCP连接关闭为什么常说四次挥手？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-06",
+      "module": "NET",
+      "question": "TCP如何处理丢包、乱序和拥塞？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-07",
+      "module": "NET",
+      "question": "什么是粘包与消息边界？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-08",
+      "module": "NET",
+      "question": "HTTPS如何保护通信？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-09",
+      "module": "NET",
+      "question": "HTTP方法、安全性与幂等性怎么区分？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-10",
+      "module": "NET",
+      "question": "常见HTTP状态码怎样解释？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-11",
+      "module": "NET",
+      "question": "强缓存与协商缓存有什么区别？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-12",
+      "module": "NET",
+      "question": "HTTP/1.1、HTTP/2、HTTP/3关键区别？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-13",
+      "module": "NET",
+      "question": "Cookie、Session、JWT是什么关系？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-14",
+      "module": "NET",
+      "question": "长轮询、SSE、WebSocket怎么选？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "NET-15",
+      "module": "NET",
+      "question": "反向代理、负载均衡、CDN做什么？",
+      "file": "topics/NET.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-01",
+      "module": "OS",
+      "question": "进程、线程、协程怎样区别？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-02",
+      "module": "OS",
+      "question": "并发与并行有什么区别？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-03",
+      "module": "OS",
+      "question": "上下文切换为什么有成本？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-04",
+      "module": "OS",
+      "question": "用户态、内核态与系统调用是什么？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-05",
+      "module": "OS",
+      "question": "互斥锁、信号量、条件变量如何选择？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-06",
+      "module": "OS",
+      "question": "原子性、可见性、有序性怎么区分？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-07",
+      "module": "OS",
+      "question": "死锁四条件与预防是什么？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-08",
+      "module": "OS",
+      "question": "虚拟内存、分页、缺页和TLB是什么？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-09",
+      "module": "OS",
+      "question": "栈、堆与内存泄漏如何理解？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-10",
+      "module": "OS",
+      "question": "进程间通信有哪些方式？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-11",
+      "module": "OS",
+      "question": "阻塞、非阻塞、I/O多路复用怎么区别？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-12",
+      "module": "OS",
+      "question": "Linux怎样定位CPU、内存、磁盘或网络瓶颈？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "OS-13",
+      "module": "OS",
+      "question": "文件描述符、权限与管道重定向有什么用？",
+      "file": "topics/OS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-01",
+      "module": "DS",
+      "question": "递归如何证明终止、估算空间？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-02",
+      "module": "DS",
+      "question": "反转链表为何先保存next？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-03",
+      "module": "DS",
+      "question": "快慢指针怎样检测环？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-04",
+      "module": "DS",
+      "question": "BST、平衡树和普通二叉树怎样区别？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-05",
+      "module": "DS",
+      "question": "DFS与BFS的适用场景是什么？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-06",
+      "module": "DS",
+      "question": "堆如何解决Top K？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-07",
+      "module": "DS",
+      "question": "快速、归并、堆排序怎么比较？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-08",
+      "module": "DS",
+      "question": "图的邻接表和矩阵怎么选？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-09",
+      "module": "DS",
+      "question": "回溯怎样避免状态污染？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-10",
+      "module": "DS",
+      "question": "动态规划与贪心如何区别？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DS-11",
+      "module": "DS",
+      "question": "拓扑排序与并查集分别解决什么？",
+      "file": "topics/DS.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-01",
+      "module": "PYX",
+      "question": "LEGB作用域与闭包是什么？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-02",
+      "module": "PYX",
+      "question": "装饰器怎样工作？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-03",
+      "module": "PYX",
+      "question": "迭代器与生成器有什么区别？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-04",
+      "module": "PYX",
+      "question": "with如何保证资源清理？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-05",
+      "module": "PYX",
+      "question": "类、实例、继承与组合怎么选择？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-06",
+      "module": "PYX",
+      "question": "实例方法、classmethod、staticmethod怎样区别？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-07",
+      "module": "PYX",
+      "question": "__eq__与__hash__需要什么约定？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-08",
+      "module": "PYX",
+      "question": "Python如何管理内存？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-09",
+      "module": "PYX",
+      "question": "GIL是否意味着线程安全或无法并行？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-10",
+      "module": "PYX",
+      "question": "async/await适合什么？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-11",
+      "module": "PYX",
+      "question": "线程池、进程池与异步怎样取舍？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "PYX-12",
+      "module": "PYX",
+      "question": "类型注解、虚拟环境、依赖锁分别解决什么？",
+      "file": "topics/PYX.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-01",
+      "module": "JS",
+      "question": "var、let、const与提升有什么区别？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-02",
+      "module": "JS",
+      "question": "作用域链与闭包有什么用和风险？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-03",
+      "module": "JS",
+      "question": "普通函数与箭头函数的this怎样决定？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-04",
+      "module": "JS",
+      "question": "原型链、prototype、class是什么关系？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-05",
+      "module": "JS",
+      "question": "==、===、Object.is怎样区别？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-06",
+      "module": "JS",
+      "question": "浅复制、深复制和JSON复制有哪些边界？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-07",
+      "module": "JS",
+      "question": "浏览器事件循环、任务与微任务如何排序？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-08",
+      "module": "JS",
+      "question": "Promise状态与链式错误传播怎样工作？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-09",
+      "module": "JS",
+      "question": "async/await与Promise.all/allSettled怎样选？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-10",
+      "module": "JS",
+      "question": "防抖与节流怎么区别？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-11",
+      "module": "JS",
+      "question": "ES模块、CommonJS与打包有什么关系？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-12",
+      "module": "JS",
+      "question": "TS的any、unknown、never怎样选？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-13",
+      "module": "JS",
+      "question": "联合类型、类型守卫与泛型解决什么？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JS-14",
+      "module": "JS",
+      "question": "interface与type有什么区别？",
+      "file": "topics/JS.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-01",
+      "module": "WEB",
+      "question": "语义化HTML与可访问性为什么重要？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-02",
+      "module": "WEB",
+      "question": "盒模型与box-sizing怎么影响宽度？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-03",
+      "module": "WEB",
+      "question": "CSS层叠、优先级和继承怎么判断？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-04",
+      "module": "WEB",
+      "question": "Flex、Grid、定位与BFC各解决什么？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-05",
+      "module": "WEB",
+      "question": "响应式布局怎样实现和验证？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-06",
+      "module": "WEB",
+      "question": "DOM、CSSOM到布局绘制是什么过程？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-07",
+      "module": "WEB",
+      "question": "怎样避免布局抖动和长任务？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-08",
+      "module": "WEB",
+      "question": "捕获、冒泡与事件委托怎么用？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-09",
+      "module": "WEB",
+      "question": "同源策略和CORS是什么？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-10",
+      "module": "WEB",
+      "question": "XSS与CSRF如何区别和防御？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-11",
+      "module": "WEB",
+      "question": "Cookie、localStorage、sessionStorage怎样取舍？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-12",
+      "module": "WEB",
+      "question": "首屏与交互性能怎样量化？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "WEB-13",
+      "module": "WEB",
+      "question": "Tree shaking、代码拆分、source map有什么作用？",
+      "file": "topics/WEB.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-01",
+      "module": "REACT",
+      "question": "props与state有什么区别？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-02",
+      "module": "REACT",
+      "question": "为什么setState后马上读还是旧值？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-03",
+      "module": "REACT",
+      "question": "render、commit、协调与key如何联系？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-04",
+      "module": "REACT",
+      "question": "Hooks为什么不能随便放条件里？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-05",
+      "module": "REACT",
+      "question": "useEffect应处理什么？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-06",
+      "module": "REACT",
+      "question": "依赖数组、闭包过期与清理如何联系？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-07",
+      "module": "REACT",
+      "question": "请求竞态怎样防止旧结果覆盖新输入？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-08",
+      "module": "REACT",
+      "question": "useMemo、useCallback、memo怎样取舍？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-09",
+      "module": "REACT",
+      "question": "useRef与state有什么区别？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-10",
+      "module": "REACT",
+      "question": "受控表单、状态提升、Context怎么选？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-11",
+      "module": "REACT",
+      "question": "CSR、SSR、SSG与hydration如何区别？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-12",
+      "module": "REACT",
+      "question": "Next服务端组件与客户端组件怎样划边界？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-13",
+      "module": "REACT",
+      "question": "Suspense、错误边界和路由加载态分别负责什么？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "REACT-14",
+      "module": "REACT",
+      "question": "服务端缓存与重新验证怎样回答？",
+      "file": "topics/REACT.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-01",
+      "module": "ENG",
+      "question": "封装、继承、多态怎样体现？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-02",
+      "module": "ENG",
+      "question": "SOLID和设计模式怎样避免背名词？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-03",
+      "module": "ENG",
+      "question": "Git工作区、暂存区、提交是什么？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-04",
+      "module": "ENG",
+      "question": "merge与rebase有什么区别？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-05",
+      "module": "ENG",
+      "question": "reset、revert、restore怎样区别？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-06",
+      "module": "ENG",
+      "question": "单元、集成、E2E测试如何分工？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-07",
+      "module": "ENG",
+      "question": "mock何时有用、何时掩盖问题？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-08",
+      "module": "ENG",
+      "question": "如何系统调试一个错误？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-09",
+      "module": "ENG",
+      "question": "日志、指标与追踪怎样配合？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-10",
+      "module": "ENG",
+      "question": "容器镜像、容器、虚拟机怎样区别？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-11",
+      "module": "ENG",
+      "question": "CI/CD与依赖锁解决什么？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "ENG-12",
+      "module": "ENG",
+      "question": "数据库迁移如何安全演进？",
+      "file": "topics/ENG.md",
+      "stage": "B",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-01",
+      "module": "API",
+      "question": "REST资源设计与API契约是什么？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-02",
+      "module": "API",
+      "question": "认证与授权有什么区别？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-03",
+      "module": "API",
+      "question": "密码与令牌怎样存储和验证？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-04",
+      "module": "API",
+      "question": "SQL注入与参数化查询如何联系？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-05",
+      "module": "API",
+      "question": "输入验证、业务验证与数据库约束怎样配合？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-06",
+      "module": "API",
+      "question": "请求超时、重试、幂等键怎样设计？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-07",
+      "module": "API",
+      "question": "连接池与事务范围有什么关系？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-08",
+      "module": "API",
+      "question": "ORM的N+1查询是什么？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-09",
+      "module": "API",
+      "question": "FastAPI的def与async def怎样选择？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-10",
+      "module": "API",
+      "question": "依赖注入与请求生命周期有什么用？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-11",
+      "module": "API",
+      "question": "文件上传、后台任务和分页有什么边界？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "API-12",
+      "module": "API",
+      "question": "如何设计错误响应与限流？",
+      "file": "topics/API.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-01",
+      "module": "CACHE",
+      "question": "Redis常用数据类型如何选？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-02",
+      "module": "CACHE",
+      "question": "Redis为什么快、为什么仍会慢？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-03",
+      "module": "CACHE",
+      "question": "RDB与AOF怎样权衡？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-04",
+      "module": "CACHE",
+      "question": "过期删除与内存淘汰有什么区别？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-05",
+      "module": "CACHE",
+      "question": "缓存穿透、击穿、雪崩如何区分？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-06",
+      "module": "CACHE",
+      "question": "Cache Aside更新为何常先写库再删缓存？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-07",
+      "module": "CACHE",
+      "question": "布隆过滤器能做什么、不能做什么？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-08",
+      "module": "CACHE",
+      "question": "大key与热key如何排查？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-09",
+      "module": "CACHE",
+      "question": "Redis事务与Lua原子性有哪些边界？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-10",
+      "module": "CACHE",
+      "question": "分布式锁为什么需要唯一标识、过期和校验删除？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-11",
+      "module": "CACHE",
+      "question": "复制、Sentinel与Cluster分别解决什么？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "CACHE-12",
+      "module": "CACHE",
+      "question": "缓存效果怎样衡量？",
+      "file": "topics/CACHE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-01",
+      "module": "SYS",
+      "question": "系统设计首先澄清什么？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-02",
+      "module": "SYS",
+      "question": "CAP应怎样准确解释？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-03",
+      "module": "SYS",
+      "question": "消息队列解耦削峰有哪些代价？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-04",
+      "module": "SYS",
+      "question": "至少一次、至多一次与恰好一次怎么理解？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-05",
+      "module": "SYS",
+      "question": "消息重复、乱序与积压如何处理？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-06",
+      "module": "SYS",
+      "question": "数据库写入与发消息怎样避免双写不一致？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-07",
+      "module": "SYS",
+      "question": "限流、熔断、降级、背压如何区别？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-08",
+      "module": "SYS",
+      "question": "分库分表与读写分离怎样权衡？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-09",
+      "module": "SYS",
+      "question": "2PC与Saga解决什么、代价是什么？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "SYS-10",
+      "module": "SYS",
+      "question": "负载均衡、服务发现和健康检查有什么边界？",
+      "file": "topics/SYS.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-01",
+      "module": "JAVA",
+      "question": "Java值传递、==与equals怎样回答？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-02",
+      "module": "JAVA",
+      "question": "equals与hashCode为何必须配套？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-03",
+      "module": "JAVA",
+      "question": "String不可变、字符串池与StringBuilder怎样理解？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-04",
+      "module": "JAVA",
+      "question": "基本类型、包装类与自动拆装箱有哪些坑？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-05",
+      "module": "JAVA",
+      "question": "泛型擦除、反射与异常体系是什么？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-06",
+      "module": "JAVA",
+      "question": "ArrayList与LinkedList怎么比较？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-07",
+      "module": "JAVA",
+      "question": "HashMap内部结构、扩容和树化怎样回答？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-08",
+      "module": "JAVA",
+      "question": "HashMap、TreeMap、ConcurrentHashMap怎么选？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-09",
+      "module": "JAVA",
+      "question": "fail-fast迭代器能保证并发安全吗？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-10",
+      "module": "JAVA",
+      "question": "JMM、happens-before、volatile如何联系？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-11",
+      "module": "JAVA",
+      "question": "synchronized、Lock与CAS有什么区别？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-12",
+      "module": "JAVA",
+      "question": "wait/sleep、线程状态与中断怎么区别？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-13",
+      "module": "JAVA",
+      "question": "线程池参数和拒绝策略怎样选择？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-14",
+      "module": "JAVA",
+      "question": "ThreadLocal用途和泄漏风险是什么？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-15",
+      "module": "JAVA",
+      "question": "JVM运行时内存区域有哪些？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-16",
+      "module": "JAVA",
+      "question": "类加载、双亲委派和初始化如何联系？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-17",
+      "module": "JAVA",
+      "question": "GC如何判定存活，常见收集方式怎么权衡？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-18",
+      "module": "JAVA",
+      "question": "OOM、高CPU与长GC怎样排查？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-19",
+      "module": "JAVA",
+      "question": "Spring IoC/DI、Bean生命周期与作用域是什么？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-20",
+      "module": "JAVA",
+      "question": "AOP代理、自动配置与循环依赖怎样理解？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-21",
+      "module": "JAVA",
+      "question": "@Transactional为什么可能不生效？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-22",
+      "module": "JAVA",
+      "question": "事务传播、隔离与Spring MVC请求流程如何区分？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-23",
+      "module": "JAVA",
+      "question": "AQS与可重入锁怎样联系？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-24",
+      "module": "JAVA",
+      "question": "Future与CompletableFuture如何组织异步结果？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-25",
+      "module": "JAVA",
+      "question": "BIO、NIO与零拷贝怎么理解？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-26",
+      "module": "JAVA",
+      "question": "Stream与parallelStream有哪些边界？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-27",
+      "module": "JAVA",
+      "question": "MyBatis的参数绑定与缓存有什么风险？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "JAVA-28",
+      "module": "JAVA",
+      "question": "Bean初始化销毁、构造器注入与循环依赖怎么验证？",
+      "file": "topics/JAVA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-01",
+      "module": "DATA",
+      "question": "窗口函数和GROUP BY有什么区别？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-02",
+      "module": "DATA",
+      "question": "pandas merge、groupby与索引对齐有哪些坑？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-03",
+      "module": "DATA",
+      "question": "ETL与ELT、批处理与流处理怎样区别？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-04",
+      "module": "DATA",
+      "question": "数据分区、列式存储与数据倾斜有什么关系？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-05",
+      "module": "DATA",
+      "question": "均值、中位数、方差与异常值怎样解释？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-06",
+      "module": "DATA",
+      "question": "条件概率、独立与贝叶斯有什么用？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-07",
+      "module": "DATA",
+      "question": "相关、因果与A/B实验怎么区别？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-08",
+      "module": "DATA",
+      "question": "训练、验证、测试与交叉验证怎么分工？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-09",
+      "module": "DATA",
+      "question": "数据泄漏有哪些形式？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-10",
+      "module": "DATA",
+      "question": "过拟合、欠拟合与偏差方差怎么理解？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-11",
+      "module": "DATA",
+      "question": "线性回归、逻辑回归与决策树分别学什么？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-12",
+      "module": "DATA",
+      "question": "随机森林、梯度提升与神经网络怎样比较？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-13",
+      "module": "DATA",
+      "question": "precision、recall、F1、accuracy如何选？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-14",
+      "module": "DATA",
+      "question": "阈值、ROC/PR与概率校准怎样联系？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-15",
+      "module": "DATA",
+      "question": "特征缩放、缺失处理与类别编码怎么选？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "DATA-16",
+      "module": "DATA",
+      "question": "数据/概念漂移与上线监控看什么？",
+      "file": "topics/DATA.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-01",
+      "module": "AI",
+      "question": "LLM、embedding模型与判别模型怎么区别？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-02",
+      "module": "AI",
+      "question": "Token、上下文窗口与生成成本是什么关系？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-03",
+      "module": "AI",
+      "question": "Transformer注意力、预训练和推理是什么？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-04",
+      "module": "AI",
+      "question": "RAG各环节是什么、为什么可能失败？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-05",
+      "module": "AI",
+      "question": "稠密检索、关键词检索、混合与重排怎么比较？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-06",
+      "module": "AI",
+      "question": "分块、向量度量与索引怎样选择？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-07",
+      "module": "AI",
+      "question": "RAG如何区分检索与生成质量？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-08",
+      "module": "AI",
+      "question": "Prompt、RAG、微调分别解决什么？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-09",
+      "module": "AI",
+      "question": "工具调用、工作流与Agent有什么区别？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-10",
+      "module": "AI",
+      "question": "提示注入与工具权限如何防护？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-11",
+      "module": "AI",
+      "question": "结构化输出、重试与验证如何配合？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-12",
+      "module": "AI",
+      "question": "如何评估GUI/Agent成功、错误与弃权？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "AI-13",
+      "module": "AI",
+      "question": "延迟、成本、缓存与版本怎样管理？",
+      "file": "topics/AI.md",
+      "stage": "D",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "VUE-01",
+      "module": "VUE",
+      "question": "Vue3响应式怎样追踪和触发？",
+      "file": "topics/VUE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "VUE-02",
+      "module": "VUE",
+      "question": "ref与reactive怎么选？",
+      "file": "topics/VUE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "VUE-03",
+      "module": "VUE",
+      "question": "computed与watch有什么区别？",
+      "file": "topics/VUE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "VUE-04",
+      "module": "VUE",
+      "question": "watch与watchEffect如何处理异步和清理？",
+      "file": "topics/VUE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "VUE-05",
+      "module": "VUE",
+      "question": "组件通信和单向数据流怎么组织？",
+      "file": "topics/VUE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "VUE-06",
+      "module": "VUE",
+      "question": "v-if、v-show、key与列表更新怎么区别？",
+      "file": "topics/VUE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "VUE-07",
+      "module": "VUE",
+      "question": "生命周期、nextTick与DOM更新怎样联系？",
+      "file": "topics/VUE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    },
+    {
+      "id": "VUE-08",
+      "module": "VUE",
+      "question": "Composition API、Pinia与路由守卫怎样分工？",
+      "file": "topics/VUE.md",
+      "stage": "C",
+      "material": "答案要点与追问边界已编写",
+      "mastery": "以learning-plan实际证据为准"
+    }
+  ]
+}
